@@ -1,0 +1,13 @@
+representation,model,adsorbate,MAE_eV,n
+composition_plus_physics,RF,H*,0.304292035581482,584
+composition_plus_physics,RF,N*,0.5827104089580553,382
+composition_plus_physics,RF,NH*,0.7164928070090076,319
+composition_plus_physics,SVR,H*,0.3634863600481781,584
+composition_plus_physics,SVR,N*,0.5922076030127571,382
+composition_plus_physics,SVR,NH*,0.6607668326218901,319
+plus_local_relaxed_geometry,RF,H*,0.17660403116876544,584
+plus_local_relaxed_geometry,RF,N*,0.34661066510538485,382
+plus_local_relaxed_geometry,RF,NH*,0.3515153711985093,319
+plus_local_relaxed_geometry,SVR,H*,0.2784009630012449,584
+plus_local_relaxed_geometry,SVR,N*,0.44320067698778975,382
+plus_local_relaxed_geometry,SVR,NH*,0.3346290621574012,319

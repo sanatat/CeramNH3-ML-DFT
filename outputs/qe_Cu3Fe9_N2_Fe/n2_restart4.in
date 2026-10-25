@@ -1,0 +1,57 @@
+&CONTROL
+  max_seconds = 7200,
+ calculation = 'relax',
+ prefix = 'Cu3Fe9_N2_Fe_resume',
+ outdir = './tmp_resume',
+ pseudo_dir = './pseudo',
+ restart_mode = 'restart',
+ tprnfor = .true.,
+/
+&SYSTEM
+ ibrav = 0,
+ nat = 14,
+ ntyp = 3,
+ ecutwfc = 70,
+ ecutrho = 560,
+ nspin = 2,
+ starting_magnetization(1) = 0.35,
+ starting_magnetization(2) = 0.02,
+ starting_magnetization(3) = 0.0,
+ occupations = 'smearing',
+ smearing = 'mv',
+ degauss = 0.02,
+/
+&ELECTRONS
+ conv_thr = 1.0d-6,
+ electron_maxstep = 150,
+ mixing_beta = 0.2,
+/
+&IONS
+ ion_dynamics = 'bfgs',
+/
+
+ATOMIC_SPECIES
+Fe 55.845 Fe.jry.pbe.UPF
+Cu 63.546 Cu.pbe-dn-kjpaw_psl.0.2.UPF
+N 14.007 N-PBE.upf
+CELL_PARAMETERS angstrom
+5.1175136378 0.0000000000 0.0000000000
+-2.5587568189 4.4318966864 0.0000000000
+0.0000000000 0.0000000000 24.1784312890
+ATOMIC_POSITIONS angstrom
+Fe 0.0000000000 0.0000000000 9.9999992923 0 0 0
+Fe -1.2793784095 2.2159483432 9.9999992923 0 0 0
+Fe 1.2793784095 2.2159483432 9.9999992923 0 0 0
+Cu 2.5587567189 0.0000000000 9.9999992923 0 0 0
+Fe 2.5587567189 1.4772988955 12.0892154445 0 0 0
+Fe 1.2793784095 3.6932472386 12.0892154445 0 0 0
+Fe -1.2793784095 3.6932472386 12.0892154445 0 0 0
+Cu 0.0000000000 1.4772988955 12.0892154445 0 0 0
+Fe 0.0000076398 2.9634552025 14.2265332786 1 1 1
+Fe 1.2770069098 0.7447170521 14.2053409241 1 1 1
+Fe 3.8405481645 0.7447289912 14.2053301665 1 1 1
+Cu 2.5587485575 2.9595898291 14.2166408239 1 1 1
+N -0.0000239386 2.9360265788 16.1251661125 1 1 1
+N -0.0000577439 2.9509476601 17.2509804795 1 1 1
+K_POINTS automatic
+4 4 1 0 0 0

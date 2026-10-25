@@ -1,0 +1,1310 @@
+source,record_id,material,Fe_fraction,Ni_fraction,contains_Fe,contains_Ni,adsorbate,ref_ads_eng_eV,constraint_source
+MamunHighT2019,Ag9Fe3_0.5H2(g) + * -> H*,Ag9Fe3,0.25,0.0,True,False,H*,0.28140693433763886,deposited
+MamunHighT2019,Fe9Ta3_0.5H2(g) + * -> H*,Fe9Ta3,0.75,0.0,True,False,H*,-0.642043350459943,deposited
+MamunHighT2019,Fe9Ta3_0.5N2(g) + * -> N*,Fe9Ta3,0.75,0.0,True,False,N*,-1.1987169705116685,deposited
+MamunHighT2019,Fe9Sn3_0.5H2(g) + * -> H*,Fe9Sn3,0.75,0.0,True,False,H*,0.006009634141292963,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + * -> H*,Cu9Ni3,0.0,0.25,False,True,H*,-0.043154941856272444,deposited
+MamunHighT2019,Fe9W3_0.5H2(g) + * -> H*,Fe9W3,0.75,0.0,True,False,H*,-0.606182692156807,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + * -> H*,Al3Fe9,0.75,0.0,True,False,H*,-0.53569146625793,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + * -> H*,Ir3Ni9,0.0,0.75,False,True,H*,-0.28260341896290697,deposited
+MamunHighT2019,Ni9Sc3_0.5H2(g) + * -> H*,Ni9Sc3,0.0,0.75,False,True,H*,-0.6414939526575552,deposited
+MamunHighT2019,Fe3Re9_0.5H2(g) + * -> H*,Fe3Re9,0.25,0.0,True,False,H*,-0.5837384705582451,deposited
+MamunHighT2019,Mo9Ni3_0.5H2(g) + * -> H*,Mo9Ni3,0.0,0.25,False,True,H*,-0.9021245872599764,deposited
+MamunHighT2019,Ni9Pb3_0.5H2(g) + * -> H*,Ni9Pb3,0.0,0.75,False,True,H*,-0.4663587649619956,deposited
+MamunHighT2019,Fe9Nb3_0.5H2(g) + * -> H*,Fe9Nb3,0.75,0.0,True,False,H*,-0.6064290911590149,deposited
+MamunHighT2019,Fe9Nb3_0.5N2(g) + * -> N*,Fe9Nb3,0.75,0.0,True,False,N*,-1.1290630388193676,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + * -> H*,Ni9Pt3,0.0,0.75,False,True,H*,-0.3387032243544752,deposited
+MamunHighT2019,Nb3Ni9_0.5H2(g) + * -> H*,Nb3Ni9,0.0,0.75,False,True,H*,-0.369979988957283,deposited
+MamunHighT2019,Ni3W9_0.5H2(g) + * -> H*,Ni3W9,0.0,0.25,False,True,H*,-0.8927591092569571,deposited
+MamunHighT2019,Ni3W9_0.5N2(g) + * -> N*,Ni3W9,0.0,0.25,False,True,N*,-2.0410044049076532,deposited
+MamunHighT2019,Ni3Ta9_0.5H2(g) + * -> H*,Ni3Ta9,0.0,0.25,False,True,H*,-1.0005866668570604,deposited
+MamunHighT2019,Fe9V3_0.5H2(g) + * -> H*,Fe9V3,0.75,0.0,True,False,H*,-0.6768769149557272,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + * -> H*,Cu9Fe3,0.25,0.0,True,False,H*,-0.12061513925343093,deposited
+MamunHighT2019,In3Ni9_0.5H2(g) + * -> H*,In3Ni9,0.0,0.75,False,True,H*,-0.5471882758565414,deposited
+MamunHighT2019,Ni9Zn3_0.5H2(g) + * -> H*,Ni9Zn3,0.0,0.75,False,True,H*,-0.5048955266601922,deposited
+MamunHighT2019,Fe9Zr3_0.5N2(g) + * -> N*,Fe9Zr3,0.75,0.0,True,False,N*,-1.1773758984145388,deposited
+MamunHighT2019,Ni9Tl3_0.5H2(g) + * -> H*,Ni9Tl3,0.0,0.75,False,True,H*,-0.47276922275975153,deposited
+MamunHighT2019,Fe3La9_0.5H2(g) + * -> H*,Fe3La9,0.25,0.0,True,False,H*,-0.6816263899590638,deposited
+MamunHighT2019,Fe9Ga3_0.5H2(g) + * -> H*,Fe9Ga3,0.75,0.0,True,False,H*,-0.40121212685969,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + * -> H*,Co9Ni3,0.0,0.25,False,True,H*,-0.34278044196159385,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + * -> H*,Ni9Sn3,0.0,0.75,False,True,H*,-0.5179895085593387,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + * -> H*,Ag9Ni3,0.0,0.25,False,True,H*,0.38676029694855174,deposited
+MamunHighT2019,Cd3Ni9_0.5H2(g) + * -> H*,Cd3Ni9,0.0,0.75,False,True,H*,-0.49511262616485396,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + * -> H*,Ga3Ni9,0.0,0.75,False,True,H*,-0.566984149560966,deposited
+MamunHighT2019,Hf9Ni3_0.5H2(g) + * -> H*,Hf9Ni3,0.0,0.25,False,True,H*,-1.0183171963571738,deposited
+MamunHighT2019,Ni9Ta3_0.5H2(g) + * -> H*,Ni9Ta3,0.0,0.75,False,True,H*,-0.3800740516589656,deposited
+MamunHighT2019,Fe9Hf3_0.5H2(g) + * -> H*,Fe9Hf3,0.75,0.0,True,False,H*,-0.6587663785603297,deposited
+MamunHighT2019,Fe9Hf3_0.5N2(g) + * -> N*,Fe9Hf3,0.75,0.0,True,False,N*,-1.1313885237123031,deposited
+MamunHighT2019,Cd9Fe3_0.5N2(g) + * -> N*,Cd9Fe3,0.25,0.0,True,False,N*,2.654851863584554,deposited
+MamunHighT2019,Fe9Sc3_0.5H2(g) + * -> H*,Fe9Sc3,0.75,0.0,True,False,H*,-0.48272341905882854,deposited
+MamunHighT2019,Fe9Tl3_0.5H2(g) + * -> H*,Fe9Tl3,0.75,0.0,True,False,H*,0.16373293754534757,deposited
+MamunHighT2019,Nb9Ni3_0.5H2(g) + * -> H*,Nb9Ni3,0.0,0.25,False,True,H*,-0.9947773084595326,deposited
+MamunHighT2019,Nb9Ni3_0.5N2(g) + * -> N*,Nb9Ni3,0.0,0.25,False,True,N*,-1.911074264715353,deposited
+MamunHighT2019,Fe3Mo9_0.5H2(g) + * -> H*,Fe3Mo9,0.25,0.0,True,False,H*,-0.8273882493585631,deposited
+MamunHighT2019,Al9Fe3_0.5N2(g) + * -> N*,Al9Fe3,0.25,0.0,True,False,N*,-0.3805209987131093,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + * -> H*,Ni9Rh3,0.0,0.75,False,True,H*,-0.323434508557483,deposited
+MamunHighT2019,Al9Ni3_0.5N2(g) + * -> N*,Al9Ni3,0.0,0.25,False,True,N*,-0.8018521343128668,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + * -> H*,Al3Ni9,0.0,0.75,False,True,H*,-0.5874389467562366,deposited
+MamunHighT2019,Al3Ni9_0.5N2(g) + * -> N*,Al3Ni9,0.0,0.75,False,True,N*,0.19240489249023085,deposited
+MamunHighT2019,Fe9Ti3_0.5H2(g) + * -> H*,Fe9Ti3,0.75,0.0,True,False,H*,-0.753943499758833,deposited
+MamunHighT2019,Fe3Re9_0.5H2(g) + * -> H*_1,Fe3Re9,0.25,0.0,True,False,H*,0.3296799294485311,deposited
+MamunHighT2019,Fe3Re9_0.5N2(g) + * -> N*,Fe3Re9,0.25,0.0,True,False,N*,0.33765109618798306,deposited
+MamunHighT2019,Fe3Re9_0.5N2(g) + * -> N*_1,Fe3Re9,0.25,0.0,True,False,N*,1.200093594392456,deposited
+MamunHighT2019,Mo9Ni3_0.5H2(g) + * -> H*_1,Mo9Ni3,0.0,0.25,False,True,H*,0.1503586784392894,deposited
+MamunHighT2019,Mo9Ni3_0.5N2(g) + * -> N*,Mo9Ni3,0.0,0.25,False,True,N*,0.3089037656845903,deposited
+MamunHighT2019,Mo9Ni3_0.5N2(g) + * -> N*_1,Mo9Ni3,0.0,0.25,False,True,N*,1.909686075987338,deposited
+MamunHighT2019,Fe9Y3_0.5H2(g) + * -> H*,Fe9Y3,0.75,0.0,True,False,H*,1.134092246838037,deposited
+MamunHighT2019,Fe9Y3_0.5H2(g) + * -> H*_1,Fe9Y3,0.75,0.0,True,False,H*,0.04986390854267597,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + * -> H*,Ni3Os9,0.0,0.25,False,True,H*,-0.1391017370542329,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + * -> H*_1,Ni3Os9,0.0,0.25,False,True,H*,0.28558646694094136,deposited
+MamunHighT2019,Ni3Os9_0.5N2(g) + * -> N*,Ni3Os9,0.0,0.25,False,True,N*,0.460639204187828,deposited
+MamunHighT2019,Hf3Ni9_0.5H2(g) + * -> H*,Hf3Ni9,0.0,0.75,False,True,H*,-0.06968957855767144,deposited
+MamunHighT2019,Hf3Ni9_0.5H2(g) + * -> H*_1,Hf3Ni9,0.0,0.75,False,True,H*,0.6934772197428458,deposited
+MamunHighT2019,Fe9Nb3_0.5H2(g) + * -> H*_1,Fe9Nb3,0.75,0.0,True,False,H*,0.39016675404221246,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + * -> H*,Au9Fe3,0.25,0.0,True,False,H*,0.5406062503434725,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + * -> H*_1,Au9Fe3,0.25,0.0,True,False,H*,0.4535651967426304,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + * -> H*_1,Ni9Pt3,0.0,0.75,False,True,H*,-0.11345269485806853,deposited
+MamunHighT2019,Nb3Ni9_0.5H2(g) + * -> H*_1,Nb3Ni9,0.0,0.75,False,True,H*,0.23270644854440548,deposited
+MamunHighT2019,Fe3W9_0.5H2(g) + * -> H*,Fe3W9,0.25,0.0,True,False,H*,0.15476406543987764,deposited
+MamunHighT2019,Ni6Re6_0.5H2(g) + * -> H*,Ni6Re6,0.0,0.5,False,True,H*,-0.3636280355558199,deposited
+MamunHighT2019,Ni6Re6_0.5H2(g) + * -> H*_1,Ni6Re6,0.0,0.5,False,True,H*,-0.49770954455649985,deposited
+MamunHighT2019,Ni6Re6_0.5H2(g) + * -> H*_2,Ni6Re6,0.0,0.5,False,True,H*,-0.5188031289571597,deposited
+MamunHighT2019,Ni6Re6_0.5N2(g) + * -> N*,Ni6Re6,0.0,0.5,False,True,N*,-0.1908625513115112,deposited
+MamunHighT2019,Ni6Re6_0.5N2(g) + * -> N*_1,Ni6Re6,0.0,0.5,False,True,N*,-0.9145088962122827,deposited
+MamunHighT2019,Ni6Re6_0.5N2(g) + * -> N*_2,Ni6Re6,0.0,0.5,False,True,N*,-1.248215158107996,deposited
+MamunHighT2019,Ni3W9_0.5H2(g) + * -> H*_1,Ni3W9,0.0,0.25,False,True,H*,0.184293178944273,deposited
+MamunHighT2019,Ni3W9_0.5N2(g) + * -> N*_1,Ni3W9,0.0,0.25,False,True,N*,2.2129627995873307,deposited
+MamunHighT2019,Ni9V3_0.5H2(g) + * -> H*,Ni9V3,0.0,0.75,False,True,H*,0.14019767563971186,deposited
+MamunHighT2019,Ni3Ta9_0.5H2(g) + * -> H*_1,Ni3Ta9,0.0,0.25,False,True,H*,0.13128662764304977,deposited
+MamunHighT2019,Ni3Ta9_0.5N2(g) + * -> N*,Ni3Ta9,0.0,0.25,False,True,N*,1.926346381786061,deposited
+MamunHighT2019,Fe9V3_0.5H2(g) + * -> H*_1,Fe9V3,0.75,0.0,True,False,H*,0.4601670866404959,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + * -> H*,Cu6Fe6,0.5,0.0,True,False,H*,-0.2165096886519393,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + * -> H*_1,Cu6Fe6,0.5,0.0,True,False,H*,-0.08763643865583504,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + * -> H*_2,Cu6Fe6,0.5,0.0,True,False,H*,-0.30251956685148684,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + * -> H*_3,Cu6Fe6,0.5,0.0,True,False,H*,-0.4068556317569971,deposited
+MamunHighT2019,Cu6Fe6_0.5N2(g) + * -> N*,Cu6Fe6,0.5,0.0,True,False,N*,0.4367274726882897,deposited
+MamunHighT2019,Cu6Fe6_0.5N2(g) + * -> N*_1,Cu6Fe6,0.5,0.0,True,False,N*,0.5097304453865945,deposited
+MamunHighT2019,Cu6Fe6_0.5N2(g) + * -> N*_2,Cu6Fe6,0.5,0.0,True,False,N*,-0.1507548762110673,deposited
+MamunHighT2019,Cu6Fe6_0.5N2(g) + * -> N*_3,Cu6Fe6,0.5,0.0,True,False,N*,-0.19190910100769543,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + * -> H*,Ag3Ni9,0.0,0.75,False,True,H*,0.17620718024502935,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + * -> H*_1,Ag3Ni9,0.0,0.75,False,True,H*,0.8545962318467275,deposited
+MamunHighT2019,La3Ni9_0.5H2(g) + * -> H*,La3Ni9,0.0,0.75,False,True,H*,1.153537365645235,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*,In6Ni6,0.0,0.5,False,True,H*,0.8561236067407947,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*_1,In6Ni6,0.0,0.5,False,True,H*,0.1894832062398848,deposited
+MamunHighT2019,Cr6Fe6_0.5H2(g) + * -> H*,Cr6Fe6,0.5,0.0,True,False,H*,-0.6638087840537708,deposited
+MamunHighT2019,Cr6Fe6_0.5H2(g) + * -> H*_1,Cr6Fe6,0.5,0.0,True,False,H*,-0.6521508829600577,deposited
+MamunHighT2019,Cr6Fe6_0.5H2(g) + * -> H*_2,Cr6Fe6,0.5,0.0,True,False,H*,-0.637119042358762,deposited
+MamunHighT2019,Cr6Fe6_0.5H2(g) + * -> H*_3,Cr6Fe6,0.5,0.0,True,False,H*,0.24337222254055746,deposited
+MamunHighT2019,Cr6Fe6_0.5N2(g) + * -> N*,Cr6Fe6,0.5,0.0,True,False,N*,-1.3635715613145294,deposited
+MamunHighT2019,Cr6Fe6_0.5N2(g) + * -> N*_1,Cr6Fe6,0.5,0.0,True,False,N*,-1.0949561542092852,deposited
+MamunHighT2019,Cr6Fe6_0.5N2(g) + * -> N*_2,Cr6Fe6,0.5,0.0,True,False,N*,-1.2514214754137356,deposited
+MamunHighT2019,Fe6In6_0.5H2(g) + * -> H*,Fe6In6,0.5,0.0,True,False,H*,0.2991011367421663,deposited
+MamunHighT2019,Fe6In6_0.5N2(g) + * -> N*,Fe6In6,0.5,0.0,True,False,N*,1.26009183858514,deposited
+MamunHighT2019,Fe6Tc6_0.5H2(g) + * -> H*,Fe6Tc6,0.5,0.0,True,False,H*,-0.48769507495941866,deposited
+MamunHighT2019,Fe6Tc6_0.5H2(g) + * -> H*_1,Fe6Tc6,0.5,0.0,True,False,H*,-0.5258950958586581,deposited
+MamunHighT2019,Fe6Tc6_0.5N2(g) + * -> N*,Fe6Tc6,0.5,0.0,True,False,N*,-0.6990823567193729,deposited
+MamunHighT2019,Fe6Tc6_0.5N2(g) + * -> N*_1,Fe6Tc6,0.5,0.0,True,False,N*,-0.8771767824164272,deposited
+MamunHighT2019,Ni6Pd6_0.5N2(g) + * -> N*,Ni6Pd6,0.0,0.5,False,True,N*,0.4252958342894999,deposited
+MamunHighT2019,Ni6Pd6_0.5N2(g) + * -> N*_1,Ni6Pd6,0.0,0.5,False,True,N*,0.9839796952855977,deposited
+MamunHighT2019,Ni6Zr6_0.5H2(g) + * -> H*,Ni6Zr6,0.0,0.5,False,True,H*,-0.0035568000521095655,deposited
+MamunHighT2019,Ni6Zr6_0.5N2(g) + * -> N*,Ni6Zr6,0.0,0.5,False,True,N*,-2.2386759247110604,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*,Al6Ni6,0.0,0.5,False,True,H*,-0.15915625495742347,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*_1,Al6Ni6,0.0,0.5,False,True,H*,0.6096283336419503,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*_2,Al6Ni6,0.0,0.5,False,True,H*,0.17901593924128179,deposited
+MamunHighT2019,Hg6Ni6_0.5H2(g) + * -> H*,Hg6Ni6,0.0,0.5,False,True,H*,1.0987760882353825,deposited
+MamunHighT2019,Hg6Ni6_0.5H2(g) + * -> H*_1,Hg6Ni6,0.0,0.5,False,True,H*,0.15565006803902293,deposited
+MamunHighT2019,Hg6Ni6_0.5N2(g) + * -> N*,Hg6Ni6,0.0,0.5,False,True,N*,1.0487327206847112,deposited
+MamunHighT2019,Ni9Re3_0.5H2(g) + * -> H*,Ni9Re3,0.0,0.75,False,True,H*,0.2696927057413916,deposited
+MamunHighT2019,Ni9Re3_0.5H2(g) + * -> H*_1,Ni9Re3,0.0,0.75,False,True,H*,-0.31449162335681535,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + * -> H*_1,Ir3Ni9,0.0,0.75,False,True,H*,-0.2763099700596001,deposited
+MamunHighT2019,Ni9Sc3_0.5H2(g) + * -> H*_1,Ni9Sc3,0.0,0.75,False,True,H*,1.0636256470397996,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + * -> H*,Ni3Rh9,0.0,0.25,False,True,H*,0.022617694136926048,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + * -> H*_1,Ni3Rh9,0.0,0.25,False,True,H*,0.15388472953875976,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*,Fe6Pt6,0.5,0.0,True,False,H*,0.07909056754672861,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_1,Fe6Pt6,0.5,0.0,True,False,H*,0.14575002244330904,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_2,Fe6Pt6,0.5,0.0,True,False,H*,0.16134527474153515,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_3,Fe6Pt6,0.5,0.0,True,False,H*,0.1543398400399667,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_4,Fe6Pt6,0.5,0.0,True,False,H*,0.7330414834441683,deposited
+MamunHighT2019,Fe6Pt6_0.5N2(g) + * -> N*,Fe6Pt6,0.5,0.0,True,False,N*,0.457347715184369,deposited
+MamunHighT2019,Fe6Pt6_0.5N2(g) + * -> N*_1,Fe6Pt6,0.5,0.0,True,False,N*,0.5964610170904052,deposited
+MamunHighT2019,Fe6Pt6_0.5N2(g) + * -> N*_2,Fe6Pt6,0.5,0.0,True,False,N*,0.9739498512844875,deposited
+MamunHighT2019,Fe6Pt6_0.5N2(g) + * -> N*_3,Fe6Pt6,0.5,0.0,True,False,N*,0.8365927720860782,deposited
+MamunHighT2019,Fe6Tl6_0.5H2(g) + * -> H*,Fe6Tl6,0.5,0.0,True,False,H*,-0.36002075845951254,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*,Au6Fe6,0.5,0.0,True,False,H*,0.32012506014237374,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*_1,Au6Fe6,0.5,0.0,True,False,H*,-0.1319357552556255,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*_2,Au6Fe6,0.5,0.0,True,False,H*,0.5055986689449412,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*_3,Au6Fe6,0.5,0.0,True,False,H*,0.4200439011447372,deposited
+MamunHighT2019,Au6Fe6_0.5N2(g) + * -> N*,Au6Fe6,0.5,0.0,True,False,N*,0.4359651457871223,deposited
+MamunHighT2019,Au6Fe6_0.5N2(g) + * -> N*_1,Au6Fe6,0.5,0.0,True,False,N*,1.3824641530864028,deposited
+MamunHighT2019,Au6Fe6_0.5N2(g) + * -> N*_2,Au6Fe6,0.5,0.0,True,False,N*,1.4194942205886036,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + * -> H*,Co6Ni6,0.0,0.5,False,True,H*,-0.30039381355797445,deposited
+MamunHighT2019,Co6Ni6_0.5N2(g) + * -> N*,Co6Ni6,0.0,0.5,False,True,N*,0.054000855181584484,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + * -> H*,Ga6Ni6,0.0,0.5,False,True,H*,0.084107394236554,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + * -> H*_1,Ga6Ni6,0.0,0.5,False,True,H*,0.6935321867358937,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + * -> H*_2,Ga6Ni6,0.0,0.5,False,True,H*,0.29496568664129086,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + * -> H*,Au6Ni6,0.0,0.5,False,True,H*,-0.17596254975703118,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + * -> H*_1,Au6Ni6,0.0,0.5,False,True,H*,0.11297976104199847,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + * -> H*_2,Au6Ni6,0.0,0.5,False,True,H*,0.13908595454361716,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + * -> H*_3,Au6Ni6,0.0,0.5,False,True,H*,0.21356051894056804,deposited
+MamunHighT2019,Au6Ni6_0.5N2(g) + * -> N*,Au6Ni6,0.0,0.5,False,True,N*,0.7350617926840641,deposited
+MamunHighT2019,Au6Ni6_0.5N2(g) + * -> N*_1,Au6Ni6,0.0,0.5,False,True,N*,1.835132054386122,deposited
+MamunHighT2019,Au6Ni6_0.5N2(g) + * -> N*_2,Au6Ni6,0.0,0.5,False,True,N*,1.9414476114816352,deposited
+MamunHighT2019,Fe6Pb6_0.5H2(g) + * -> H*,Fe6Pb6,0.5,0.0,True,False,H*,0.18097774394212252,deposited
+MamunHighT2019,Fe6Pb6_0.5H2(g) + * -> H*_1,Fe6Pb6,0.5,0.0,True,False,H*,0.15743772003864365,deposited
+MamunHighT2019,Fe6Pb6_0.5N2(g) + * -> N*,Fe6Pb6,0.5,0.0,True,False,N*,0.5997344105835509,deposited
+MamunHighT2019,Fe6Rh6_0.5H2(g) + * -> H*,Fe6Rh6,0.5,0.0,True,False,H*,1.2591080110442192,deposited
+MamunHighT2019,Fe6Rh6_0.5H2(g) + * -> H*_1,Fe6Rh6,0.5,0.0,True,False,H*,1.257930846645678,deposited
+MamunHighT2019,Fe6Rh6_0.5H2(g) + * -> H*_2,Fe6Rh6,0.5,0.0,True,False,H*,1.7916765628406495,deposited
+MamunHighT2019,Fe6Rh6_0.5H2(g) + * -> H*_3,Fe6Rh6,0.5,0.0,True,False,H*,1.548464751243074,deposited
+MamunHighT2019,Fe6Rh6_0.5N2(g) + * -> N*,Fe6Rh6,0.5,0.0,True,False,N*,0.8654501725886803,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + * -> H*,Ir9Ni3,0.0,0.25,False,True,H*,-0.2619860336626232,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + * -> H*_1,Ir9Ni3,0.0,0.25,False,True,H*,0.21488965893607315,deposited
+MamunHighT2019,Ir9Ni3_0.5N2(g) + * -> N*,Ir9Ni3,0.0,0.25,False,True,N*,1.321708343884893,deposited
+MamunHighT2019,Ir9Ni3_0.5N2(g) + * -> N*_1,Ir9Ni3,0.0,0.25,False,True,N*,2.9171897404867195,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + * -> H*_1,Cu9Fe3,0.25,0.0,True,False,H*,0.251688293640683,deposited
+MamunHighT2019,Cr6Ni6_0.5N2(g) + * -> N*,Cr6Ni6,0.0,0.5,False,True,N*,-0.47608819521155965,deposited
+MamunHighT2019,In3Ni9_0.5H2(g) + * -> H*_1,In3Ni9,0.0,0.75,False,True,H*,1.1039428498416157,deposited
+MamunHighT2019,Ni9Zn3_0.5H2(g) + * -> H*_1,Ni9Zn3,0.0,0.75,False,True,H*,0.9753781769404952,deposited
+MamunHighT2019,Fe9Zr3_0.5H2(g) + * -> H*,Fe9Zr3,0.75,0.0,True,False,H*,0.6278360148362765,deposited
+MamunHighT2019,Fe9Zr3_0.5N2(g) + * -> N*_1,Fe9Zr3,0.75,0.0,True,False,N*,2.6191951546843484,deposited
+MamunHighT2019,Hg9Ni3_0.5H2(g) + * -> H*,Hg9Ni3,0.0,0.25,False,True,H*,0.289998520643195,deposited
+MamunHighT2019,Ni9Tl3_0.5H2(g) + * -> H*_1,Ni9Tl3,0.0,0.75,False,True,H*,1.356551296340541,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + * -> H*_1,Co9Ni3,0.0,0.25,False,True,H*,0.2551620989407013,deposited
+MamunHighT2019,Ni6W6_0.5H2(g) + * -> H*,Ni6W6,0.0,0.5,False,True,H*,-0.3910424163613868,deposited
+MamunHighT2019,Ni6W6_0.5H2(g) + * -> H*_1,Ni6W6,0.0,0.5,False,True,H*,-0.5846477389631843,deposited
+MamunHighT2019,Ni6W6_0.5N2(g) + * -> N*,Ni6W6,0.0,0.5,False,True,N*,-0.3424317280168907,deposited
+MamunHighT2019,Ni6W6_0.5N2(g) + * -> N*_1,Ni6W6,0.0,0.5,False,True,N*,-1.184561064315858,deposited
+MamunHighT2019,Fe9In3_0.5H2(g) + * -> H*,Fe9In3,0.75,0.0,True,False,H*,1.7738788211436542,deposited
+MamunHighT2019,Ni6W6_0.5H2(g) + * -> H*_2,Ni6W6,0.0,0.5,False,True,H*,-0.4009174275624616,deposited
+MamunHighT2019,Ni6W6_0.5N2(g) + * -> N*_2,Ni6W6,0.0,0.5,False,True,N*,-1.3729564954137459,deposited
+MamunHighT2019,Ni3Pb9_0.5H2(g) + * -> H*,Ni3Pb9,0.0,0.25,False,True,H*,0.03459260774346262,deposited
+MamunHighT2019,In9Ni3_0.5H2(g) + * -> H*,In9Ni3,0.0,0.25,False,True,H*,0.205453431340203,deposited
+MamunHighT2019,Fe9La3_0.5H2(g) + * -> H*,Fe9La3,0.75,0.0,True,False,H*,-0.11607491985975571,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + * -> H*_1,Ni9Sn3,0.0,0.75,False,True,H*,0.9203624731390221,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + * -> H*_1,Ag9Ni3,0.0,0.25,False,True,H*,0.07639106224181091,deposited
+MamunHighT2019,Fe6La6_0.5H2(g) + * -> H*,Fe6La6,0.5,0.0,True,False,H*,-0.5628401277562887,deposited
+MamunHighT2019,Fe6La6_0.5H2(g) + * -> H*_1,Fe6La6,0.5,0.0,True,False,H*,-0.5849809423588965,deposited
+MamunHighT2019,Fe6La6_0.5H2(g) + * -> H*_2,Fe6La6,0.5,0.0,True,False,H*,-0.26984971545877556,deposited
+MamunHighT2019,Fe6La6_0.5H2(g) + * -> H*_3,Fe6La6,0.5,0.0,True,False,H*,0.6509032410404245,deposited
+MamunHighT2019,Fe6La6_0.5N2(g) + * -> N*,Fe6La6,0.5,0.0,True,False,N*,-1.8835534874142468,deposited
+MamunHighT2019,Fe6La6_0.5N2(g) + * -> N*_1,Fe6La6,0.5,0.0,True,False,N*,-1.272412064814489,deposited
+MamunHighT2019,Ni6Sn6_0.5H2(g) + * -> H*,Ni6Sn6,0.0,0.5,False,True,H*,0.18595144074154746,deposited
+MamunHighT2019,Ni6Sn6_0.5H2(g) + * -> H*_1,Ni6Sn6,0.0,0.5,False,True,H*,0.3378491950361706,deposited
+MamunHighT2019,Ni6Sn6_0.5N2(g) + * -> N*,Ni6Sn6,0.0,0.5,False,True,N*,1.5259429772831936,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + * -> H*,Cu6Ni6,0.0,0.5,False,True,H*,-0.1888913585562193,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + * -> H*_1,Cu6Ni6,0.0,0.5,False,True,H*,-0.12119106815859482,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + * -> H*_2,Cu6Ni6,0.0,0.5,False,True,H*,-0.30595078625535166,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + * -> H*_3,Cu6Ni6,0.0,0.5,False,True,H*,-0.3379883811566913,deposited
+MamunHighT2019,Cu6Ni6_0.5N2(g) + * -> N*,Cu6Ni6,0.0,0.5,False,True,N*,1.140894276488325,deposited
+MamunHighT2019,Cu6Ni6_0.5N2(g) + * -> N*_1,Cu6Ni6,0.0,0.5,False,True,N*,1.195311329791366,deposited
+MamunHighT2019,Cu6Ni6_0.5N2(g) + * -> N*_2,Cu6Ni6,0.0,0.5,False,True,N*,0.4008232761898398,deposited
+MamunHighT2019,Cu6Ni6_0.5N2(g) + * -> N*_3,Cu6Ni6,0.0,0.5,False,True,N*,0.40613412199127197,deposited
+MamunHighT2019,Cd6Ni6_0.5H2(g) + * -> H*,Cd6Ni6,0.0,0.5,False,True,H*,0.01941124074167533,deposited
+MamunHighT2019,Cd6Ni6_0.5N2(g) + * -> N*,Cd6Ni6,0.0,0.5,False,True,N*,0.5517352981896693,deposited
+MamunHighT2019,Cd6Ni6_0.5N2(g) + * -> N*_1,Cd6Ni6,0.0,0.5,False,True,N*,1.7874728121878434,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*,Ir6Ni6,0.0,0.5,False,True,H*,-0.17285854725830063,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_1,Ir6Ni6,0.0,0.5,False,True,H*,-0.2969021848611817,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_2,Ir6Ni6,0.0,0.5,False,True,H*,-0.2755715891607622,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_3,Ir6Ni6,0.0,0.5,False,True,H*,-0.2477332550615472,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_4,Ir6Ni6,0.0,0.5,False,True,H*,-0.273229505356511,deposited
+MamunHighT2019,Ir6Ni6_0.5N2(g) + * -> N*,Ir6Ni6,0.0,0.5,False,True,N*,-0.12179039891088905,deposited
+MamunHighT2019,Ir6Ni6_0.5N2(g) + * -> N*_1,Ir6Ni6,0.0,0.5,False,True,N*,-0.21836672961399017,deposited
+MamunHighT2019,Ir6Ni6_0.5N2(g) + * -> N*_2,Ir6Ni6,0.0,0.5,False,True,N*,0.4083287200828636,deposited
+MamunHighT2019,Ir6Ni6_0.5N2(g) + * -> N*_3,Ir6Ni6,0.0,0.5,False,True,N*,0.3128314568875794,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + * -> H*,Ni6Ru6,0.0,0.5,False,True,H*,-0.15256933125689898,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + * -> H*_1,Ni6Ru6,0.0,0.5,False,True,H*,-0.2688533706595706,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + * -> H*_2,Ni6Ru6,0.0,0.5,False,True,H*,-0.3176296401570369,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + * -> H*_3,Ni6Ru6,0.0,0.5,False,True,H*,-0.3931489856540509,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + * -> H*_4,Ni6Ru6,0.0,0.5,False,True,H*,-0.3382966861599641,deposited
+MamunHighT2019,Ni6Ru6_0.5N2(g) + * -> N*,Ni6Ru6,0.0,0.5,False,True,N*,0.21601226458551537,deposited
+MamunHighT2019,Ni6Ru6_0.5N2(g) + * -> N*_1,Ni6Ru6,0.0,0.5,False,True,N*,0.026050954385937075,deposited
+MamunHighT2019,Ni6Ru6_0.5N2(g) + * -> N*_2,Ni6Ru6,0.0,0.5,False,True,N*,-0.3760760192108137,deposited
+MamunHighT2019,Ni6Ru6_0.5N2(g) + * -> N*_3,Ni6Ru6,0.0,0.5,False,True,N*,-0.562328689813512,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*,Fe6Ir6,0.5,0.0,True,False,H*,-0.14621955485833382,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_1,Fe6Ir6,0.5,0.0,True,False,H*,-0.16889997126324374,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_2,Fe6Ir6,0.5,0.0,True,False,H*,-0.142410913561406,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_3,Fe6Ir6,0.5,0.0,True,False,H*,-0.13602753105712395,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_4,Fe6Ir6,0.5,0.0,True,False,H*,-0.08679764775931176,deposited
+MamunHighT2019,Fe6Ir6_0.5N2(g) + * -> N*,Fe6Ir6,0.5,0.0,True,False,N*,-0.0018974498179886723,deposited
+MamunHighT2019,Fe6Ir6_0.5N2(g) + * -> N*_1,Fe6Ir6,0.5,0.0,True,False,N*,-0.04156770181907632,deposited
+MamunHighT2019,Fe6Ir6_0.5N2(g) + * -> N*_2,Fe6Ir6,0.5,0.0,True,False,N*,-0.035727866716115386,deposited
+MamunHighT2019,Fe6Ir6_0.5N2(g) + * -> N*_3,Fe6Ir6,0.5,0.0,True,False,N*,-0.23810586741637962,deposited
+MamunHighT2019,Fe6Ir6_0.5N2(g) + * -> N*_4,Fe6Ir6,0.5,0.0,True,False,N*,1.264714236383952,deposited
+MamunHighT2019,Fe6Ta6_0.5H2(g) + * -> H*,Fe6Ta6,0.5,0.0,True,False,H*,-0.46255991955965214,deposited
+MamunHighT2019,Fe6Ta6_0.5H2(g) + * -> H*_1,Fe6Ta6,0.5,0.0,True,False,H*,-0.12183230445859294,deposited
+MamunHighT2019,Fe6Ta6_0.5H2(g) + * -> H*_2,Fe6Ta6,0.5,0.0,True,False,H*,0.058062698540226165,deposited
+MamunHighT2019,Fe6Ta6_0.5N2(g) + * -> N*,Fe6Ta6,0.5,0.0,True,False,N*,-1.9782994443139614,deposited
+MamunHighT2019,Fe6Ta6_0.5N2(g) + * -> N*_1,Fe6Ta6,0.5,0.0,True,False,N*,-2.1279408307145786,deposited
+MamunHighT2019,Ni6Zn6_0.5H2(g) + * -> H*,Ni6Zn6,0.0,0.5,False,True,H*,-0.3478827125718169,deposited
+MamunHighT2019,Ni6Zn6_0.5H2(g) + * -> H*_1,Ni6Zn6,0.0,0.5,False,True,H*,-0.020800653967825156,deposited
+MamunHighT2019,Ni6Zn6_0.5N2(g) + * -> N*,Ni6Zn6,0.0,0.5,False,True,N*,0.819505111378021,deposited
+MamunHighT2019,Ni6Zn6_0.5N2(g) + * -> N*_1,Ni6Zn6,0.0,0.5,False,True,N*,1.4400169101772917,deposited
+MamunHighT2019,Ni6Ta6_0.5H2(g) + * -> H*,Ni6Ta6,0.0,0.5,False,True,H*,-0.4856397991597703,deposited
+MamunHighT2019,Ni6Ta6_0.5H2(g) + * -> H*_1,Ni6Ta6,0.0,0.5,False,True,H*,-0.6566735509613579,deposited
+MamunHighT2019,Ni6Ta6_0.5H2(g) + * -> H*_2,Ni6Ta6,0.0,0.5,False,True,H*,-0.7533702920618168,deposited
+MamunHighT2019,Ni6Ta6_0.5N2(g) + * -> N*,Ni6Ta6,0.0,0.5,False,True,N*,-1.612007278310557,deposited
+MamunHighT2019,Nb6Ni6_0.5H2(g) + * -> H*,Nb6Ni6,0.0,0.5,False,True,H*,-0.6615400348591436,deposited
+MamunHighT2019,Nb6Ni6_0.5H2(g) + * -> H*_1,Nb6Ni6,0.0,0.5,False,True,H*,-0.4809318215547762,deposited
+MamunHighT2019,Nb6Ni6_0.5N2(g) + * -> N*,Nb6Ni6,0.0,0.5,False,True,N*,-1.2869645768168994,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + * -> H*,Ni6Pt6,0.0,0.5,False,True,H*,-0.28446454155252354,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + * -> H*_1,Ni6Pt6,0.0,0.5,False,True,H*,-0.226913417055556,deposited
+MamunHighT2019,Ni6Pt6_0.5N2(g) + * -> N*,Ni6Pt6,0.0,0.5,False,True,N*,0.49448649219084473,deposited
+MamunHighT2019,Ni6Pt6_0.5N2(g) + * -> N*_1,Ni6Pt6,0.0,0.5,False,True,N*,0.6705899968856102,deposited
+MamunHighT2019,Ni6Pt6_0.5N2(g) + * -> N*_2,Ni6Pt6,0.0,0.5,False,True,N*,0.7727975873913238,deposited
+MamunHighT2019,Ni6Pt6_0.5N2(g) + * -> N*_3,Ni6Pt6,0.0,0.5,False,True,N*,0.6776678138903662,deposited
+MamunHighT2019,Ni6Rh6_0.5H2(g) + * -> H*,Ni6Rh6,0.0,0.5,False,True,H*,-0.27495389086013233,deposited
+MamunHighT2019,Ni6Rh6_0.5H2(g) + * -> H*_1,Ni6Rh6,0.0,0.5,False,True,H*,-0.2815863935602181,deposited
+MamunHighT2019,Ni6Rh6_0.5H2(g) + * -> H*_2,Ni6Rh6,0.0,0.5,False,True,H*,-0.2919482163551663,deposited
+MamunHighT2019,Ni6Rh6_0.5N2(g) + * -> N*,Ni6Rh6,0.0,0.5,False,True,N*,0.3229319142828899,deposited
+MamunHighT2019,Ni6Rh6_0.5N2(g) + * -> N*_1,Ni6Rh6,0.0,0.5,False,True,N*,0.24533960558437684,deposited
+MamunHighT2019,Ni6Rh6_0.5N2(g) + * -> N*_2,Ni6Rh6,0.0,0.5,False,True,N*,0.07338107488430978,deposited
+MamunHighT2019,Ni6Rh6_0.5N2(g) + * -> N*_3,Ni6Rh6,0.0,0.5,False,True,N*,-0.0262764008166414,deposited
+MamunHighT2019,Hf6Ni6_0.5H2(g) + * -> H*,Hf6Ni6,0.0,0.5,False,True,H*,-0.7641575647566867,deposited
+MamunHighT2019,Hf6Ni6_0.5H2(g) + * -> H*_1,Hf6Ni6,0.0,0.5,False,True,H*,0.022138365639904123,deposited
+MamunHighT2019,Hf6Ni6_0.5N2(g) + * -> N*,Hf6Ni6,0.0,0.5,False,True,N*,-2.2651769553140184,deposited
+MamunHighT2019,Hf6Ni6_0.5N2(g) + * -> N*_1,Hf6Ni6,0.0,0.5,False,True,N*,-1.6072337212117418,deposited
+MamunHighT2019,Hf6Ni6_0.5N2(g) + * -> N*_2,Hf6Ni6,0.0,0.5,False,True,N*,-1.9776575277155644,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + * -> H*,Fe6Ga6,0.5,0.0,True,False,H*,-0.07479865195543312,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + * -> H*_1,Fe6Ga6,0.5,0.0,True,False,H*,0.24012345544272762,deposited
+MamunHighT2019,Fe6Ga6_0.5N2(g) + * -> N*,Fe6Ga6,0.5,0.0,True,False,N*,1.0613377139870863,deposited
+MamunHighT2019,Fe6Ga6_0.5N2(g) + * -> N*_1,Fe6Ga6,0.5,0.0,True,False,N*,1.08157073838629,deposited
+MamunHighT2019,Fe6Hf6_0.5H2(g) + * -> H*,Fe6Hf6,0.5,0.0,True,False,H*,-0.6333052308536651,deposited
+MamunHighT2019,Fe6Hf6_0.5H2(g) + * -> H*_1,Fe6Hf6,0.5,0.0,True,False,H*,-0.8501132923547345,deposited
+MamunHighT2019,Fe6Hf6_0.5H2(g) + * -> H*_2,Fe6Hf6,0.5,0.0,True,False,H*,-0.2992999158513783,deposited
+MamunHighT2019,Fe6Hf6_0.5H2(g) + * -> H*_3,Fe6Hf6,0.5,0.0,True,False,H*,0.5009172224463612,deposited
+MamunHighT2019,Fe6Hf6_0.5N2(g) + * -> N*,Fe6Hf6,0.5,0.0,True,False,N*,-2.29625820621186,deposited
+MamunHighT2019,Fe6Hf6_0.5N2(g) + * -> N*_1,Fe6Hf6,0.5,0.0,True,False,N*,-1.6213821442088374,deposited
+MamunHighT2019,Fe6Hf6_0.5N2(g) + * -> N*_2,Fe6Hf6,0.5,0.0,True,False,N*,0.4197175005883764,deposited
+MamunHighT2019,Fe6Hf6_0.5N2(g) + * -> N*_3,Fe6Hf6,0.5,0.0,True,False,N*,2.159312835186938,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*,Ni6Os6,0.0,0.5,False,True,H*,-0.22983469525840405,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_1,Ni6Os6,0.0,0.5,False,True,H*,-0.3470011997623885,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_2,Ni6Os6,0.0,0.5,False,True,H*,-0.335342210258176,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_3,Ni6Os6,0.0,0.5,False,True,H*,0.31201933304058116,deposited
+MamunHighT2019,Ni6Os6_0.5N2(g) + * -> N*,Ni6Os6,0.0,0.5,False,True,N*,0.3401708702858741,deposited
+MamunHighT2019,Ni6Os6_0.5N2(g) + * -> N*_1,Ni6Os6,0.0,0.5,False,True,N*,0.09517358378616336,deposited
+MamunHighT2019,Ni6Os6_0.5N2(g) + * -> N*_2,Ni6Os6,0.0,0.5,False,True,N*,-0.5442231874130812,deposited
+MamunHighT2019,Ni6Os6_0.5N2(g) + * -> N*_3,Ni6Os6,0.0,0.5,False,True,N*,-0.6703601968129078,deposited
+MamunHighT2019,Fe6Zn6_0.5H2(g) + * -> H*,Fe6Zn6,0.5,0.0,True,False,H*,-0.38484094195789,deposited
+MamunHighT2019,Fe6Zn6_0.5H2(g) + * -> H*_1,Fe6Zn6,0.5,0.0,True,False,H*,0.08646104294260226,deposited
+MamunHighT2019,Fe6Zn6_0.5H2(g) + * -> H*_2,Fe6Zn6,0.5,0.0,True,False,H*,0.1286004559379137,deposited
+MamunHighT2019,Fe6Zn6_0.5H2(g) + * -> H*_3,Fe6Zn6,0.5,0.0,True,False,H*,0.1845448842368853,deposited
+MamunHighT2019,Fe6Zn6_0.5N2(g) + * -> N*,Fe6Zn6,0.5,0.0,True,False,N*,-0.002456099517075927,deposited
+MamunHighT2019,Fe6Zn6_0.5N2(g) + * -> N*_1,Fe6Zn6,0.5,0.0,True,False,N*,0.7548690949824959,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*,Al6Fe6,0.5,0.0,True,False,H*,-0.4486732701579683,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*_1,Al6Fe6,0.5,0.0,True,False,H*,-0.1662627799587142,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*_2,Al6Fe6,0.5,0.0,True,False,H*,0.8009853157391547,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*_3,Al6Fe6,0.5,0.0,True,False,H*,-0.09330456995937197,deposited
+MamunHighT2019,Al6Fe6_0.5N2(g) + * -> N*,Al6Fe6,0.5,0.0,True,False,N*,-0.2941039022134646,deposited
+MamunHighT2019,Al6Fe6_0.5N2(g) + * -> N*_1,Al6Fe6,0.5,0.0,True,False,N*,0.8828745739865553,deposited
+MamunHighT2019,Mo6Ni6_0.5H2(g) + * -> H*,Mo6Ni6,0.0,0.5,False,True,H*,-0.5861070855598598,deposited
+MamunHighT2019,Mo6Ni6_0.5H2(g) + * -> H*_1,Mo6Ni6,0.0,0.5,False,True,H*,-0.6066137204606719,deposited
+MamunHighT2019,Mo6Ni6_0.5H2(g) + * -> H*_2,Mo6Ni6,0.0,0.5,False,True,H*,-0.43175091875943394,deposited
+MamunHighT2019,Mo6Ni6_0.5N2(g) + * -> N*,Mo6Ni6,0.0,0.5,False,True,N*,-0.9294412792096409,deposited
+MamunHighT2019,Mo6Ni6_0.5N2(g) + * -> N*_1,Mo6Ni6,0.0,0.5,False,True,N*,-1.210914473313096,deposited
+MamunHighT2019,Mo6Ni6_0.5N2(g) + * -> N*_2,Mo6Ni6,0.0,0.5,False,True,N*,-0.4205137056142121,deposited
+MamunHighT2019,Fe6Hg6_0.5H2(g) + * -> H*,Fe6Hg6,0.5,0.0,True,False,H*,-0.29299680705568676,deposited
+MamunHighT2019,Fe6Hg6_0.5H2(g) + * -> H*_1,Fe6Hg6,0.5,0.0,True,False,H*,0.4337773504421705,deposited
+MamunHighT2019,Fe6Hg6_0.5H2(g) + * -> H*_2,Fe6Hg6,0.5,0.0,True,False,H*,0.37812748534364005,deposited
+MamunHighT2019,Fe6Hg6_0.5N2(g) + * -> N*,Fe6Hg6,0.5,0.0,True,False,N*,1.5478365764884074,deposited
+MamunHighT2019,Fe6Hg6_0.5N2(g) + * -> N*_1,Fe6Hg6,0.5,0.0,True,False,N*,1.5568972869859863,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + * -> H*,Fe6Sn6,0.5,0.0,True,False,H*,0.020213432341762427,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + * -> H*_1,Fe6Sn6,0.5,0.0,True,False,H*,0.15789215014322622,deposited
+MamunHighT2019,Fe6Sn6_0.5N2(g) + * -> N*,Fe6Sn6,0.5,0.0,True,False,N*,0.5249633781913872,deposited
+MamunHighT2019,Fe6Sn6_0.5N2(g) + * -> N*_1,Fe6Sn6,0.5,0.0,True,False,N*,1.3088026647874358,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*,Fe6Os6,0.5,0.0,True,False,H*,-0.3490655913546732,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_1,Fe6Os6,0.5,0.0,True,False,H*,-0.38233395715994334,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_2,Fe6Os6,0.5,0.0,True,False,H*,-0.38013323645915875,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_3,Fe6Os6,0.5,0.0,True,False,H*,-0.3563698070565522,deposited
+MamunHighT2019,Fe6Os6_0.5N2(g) + * -> N*,Fe6Os6,0.5,0.0,True,False,N*,-0.21506054641395167,deposited
+MamunHighT2019,Fe6Os6_0.5N2(g) + * -> N*_1,Fe6Os6,0.5,0.0,True,False,N*,-0.5412404115140816,deposited
+MamunHighT2019,Fe6Os6_0.5N2(g) + * -> N*_2,Fe6Os6,0.5,0.0,True,False,N*,-0.6430183343127283,deposited
+MamunHighT2019,Fe6Os6_0.5N2(g) + * -> N*_3,Fe6Os6,0.5,0.0,True,False,N*,-0.9256594410126127,deposited
+MamunHighT2019,Cd6Fe6_0.5H2(g) + * -> H*,Cd6Fe6,0.5,0.0,True,False,H*,-0.35435657285685807,deposited
+MamunHighT2019,Cd6Fe6_0.5H2(g) + * -> H*_1,Cd6Fe6,0.5,0.0,True,False,H*,0.19812812674447855,deposited
+MamunHighT2019,Cd6Fe6_0.5H2(g) + * -> H*_2,Cd6Fe6,0.5,0.0,True,False,H*,1.036602974142653,deposited
+MamunHighT2019,Cd6Fe6_0.5H2(g) + * -> H*_3,Cd6Fe6,0.5,0.0,True,False,H*,0.2565381785434795,deposited
+MamunHighT2019,Cd6Fe6_0.5H2(g) + * -> H*_4,Cd6Fe6,0.5,0.0,True,False,H*,0.2005960632423296,deposited
+MamunHighT2019,Cd6Fe6_0.5N2(g) + * -> N*,Cd6Fe6,0.5,0.0,True,False,N*,-0.05791031481385289,deposited
+MamunHighT2019,Cd6Fe6_0.5N2(g) + * -> N*_1,Cd6Fe6,0.5,0.0,True,False,N*,1.03797619668876,deposited
+MamunHighT2019,Cd6Fe6_0.5N2(g) + * -> N*_2,Cd6Fe6,0.5,0.0,True,False,N*,1.0297046162868355,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*,Fe6Ni6,0.5,0.5,True,True,H*,-0.14146123625593532,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_1,Fe6Ni6,0.5,0.5,True,True,H*,-0.1215995110605661,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_2,Fe6Ni6,0.5,0.5,True,True,H*,-0.08633369365904286,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_3,Fe6Ni6,0.5,0.5,True,True,H*,0.556391982238921,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_4,Fe6Ni6,0.5,0.5,True,True,H*,0.4180856338435035,deposited
+MamunHighT2019,Fe6Ni6_0.5N2(g) + * -> N*,Fe6Ni6,0.5,0.5,True,True,N*,-0.05592021021038818,deposited
+MamunHighT2019,Fe6Ni6_0.5N2(g) + * -> N*_1,Fe6Ni6,0.5,0.5,True,True,N*,-0.09605373601698375,deposited
+MamunHighT2019,Fe6Ni6_0.5N2(g) + * -> N*_2,Fe6Ni6,0.5,0.5,True,True,N*,0.1648849314860854,deposited
+MamunHighT2019,Fe6Ni6_0.5N2(g) + * -> N*_3,Fe6Ni6,0.5,0.5,True,True,N*,0.11638853108706826,deposited
+MamunHighT2019,Fe6Zr6_0.5H2(g) + * -> H*,Fe6Zr6,0.5,0.0,True,False,H*,-0.5941377090593676,deposited
+MamunHighT2019,Fe6Zr6_0.5H2(g) + * -> H*_1,Fe6Zr6,0.5,0.0,True,False,H*,-0.7780525137595475,deposited
+MamunHighT2019,Fe6Zr6_0.5H2(g) + * -> H*_2,Fe6Zr6,0.5,0.0,True,False,H*,-0.26221882705701205,deposited
+MamunHighT2019,Fe6Zr6_0.5H2(g) + * -> H*_3,Fe6Zr6,0.5,0.0,True,False,H*,0.49041798213968946,deposited
+MamunHighT2019,Fe6Zr6_0.5N2(g) + * -> N*,Fe6Zr6,0.5,0.0,True,False,N*,-2.2724581774145918,deposited
+MamunHighT2019,Fe6Zr6_0.5N2(g) + * -> N*_1,Fe6Zr6,0.5,0.0,True,False,N*,-2.272586343015064,deposited
+MamunHighT2019,Fe6Zr6_0.5N2(g) + * -> N*_2,Fe6Zr6,0.5,0.0,True,False,N*,-1.5835780488141609,deposited
+MamunHighT2019,Fe6Zr6_0.5N2(g) + * -> N*_3,Fe6Zr6,0.5,0.0,True,False,N*,1.973510648984302,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*,Ag6Fe6,0.5,0.0,True,False,H*,-0.27837721895681966,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_1,Ag6Fe6,0.5,0.0,True,False,H*,0.020086219040450715,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_2,Ag6Fe6,0.5,0.0,True,False,H*,0.07459769584332321,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_3,Ag6Fe6,0.5,0.0,True,False,H*,-0.30707665735732803,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_4,Ag6Fe6,0.5,0.0,True,False,H*,0.27343467924313813,deposited
+MamunHighT2019,Ag6Fe6_0.5N2(g) + * -> N*,Ag6Fe6,0.5,0.0,True,False,N*,-0.115941584112079,deposited
+MamunHighT2019,Ag6Fe6_0.5N2(g) + * -> N*_1,Ag6Fe6,0.5,0.0,True,False,N*,1.0127824008868629,deposited
+MamunHighT2019,Ag6Fe6_0.5N2(g) + * -> N*_2,Ag6Fe6,0.5,0.0,True,False,N*,0.9867528073864378,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + * -> H*,Fe6Pd6,0.5,0.0,True,False,H*,0.03718925404339757,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + * -> H*_1,Fe6Pd6,0.5,0.0,True,False,H*,0.04331208753959004,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + * -> H*_2,Fe6Pd6,0.5,0.0,True,False,H*,0.12312294034293814,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + * -> H*_3,Fe6Pd6,0.5,0.0,True,False,H*,0.12514352164092202,deposited
+MamunHighT2019,Fe6Pd6_0.5N2(g) + * -> N*,Fe6Pd6,0.5,0.0,True,False,N*,0.3696240639892494,deposited
+MamunHighT2019,Fe6Pd6_0.5N2(g) + * -> N*_1,Fe6Pd6,0.5,0.0,True,False,N*,0.33063532108462823,deposited
+MamunHighT2019,Fe6Pd6_0.5N2(g) + * -> N*_2,Fe6Pd6,0.5,0.0,True,False,N*,0.8961685594895243,deposited
+MamunHighT2019,Fe6Pd6_0.5N2(g) + * -> N*_3,Fe6Pd6,0.5,0.0,True,False,N*,0.8704772035835049,deposited
+MamunHighT2019,La6Ni6_0.5H2(g) + * -> H*,La6Ni6,0.0,0.5,False,True,H*,-0.28597518156217916,deposited
+MamunHighT2019,La6Ni6_0.5H2(g) + * -> H*_1,La6Ni6,0.0,0.5,False,True,H*,-0.43281189056048675,deposited
+MamunHighT2019,La6Ni6_0.5H2(g) + * -> H*_2,La6Ni6,0.0,0.5,False,True,H*,-0.1275246538561703,deposited
+MamunHighT2019,La6Ni6_0.5N2(g) + * -> N*,La6Ni6,0.0,0.5,False,True,N*,-1.2258880815152224,deposited
+MamunHighT2019,La6Ni6_0.5N2(g) + * -> N*_1,La6Ni6,0.0,0.5,False,True,N*,-1.0455144303141424,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*,Fe6Y6,0.5,0.0,True,False,H*,-0.617506437457422,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*_1,Fe6Y6,0.5,0.0,True,False,H*,-0.6235718548550437,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*_2,Fe6Y6,0.5,0.0,True,False,H*,-0.7977594061548814,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*_3,Fe6Y6,0.5,0.0,True,False,H*,0.5867768937432913,deposited
+MamunHighT2019,Fe6Y6_0.5N2(g) + * -> N*,Fe6Y6,0.5,0.0,True,False,N*,-2.37425269911364,deposited
+MamunHighT2019,Fe6Y6_0.5N2(g) + * -> N*_1,Fe6Y6,0.5,0.0,True,False,N*,-1.496469239011276,deposited
+MamunHighT2019,Ni6Y6_0.5H2(g) + * -> H*,Ni6Y6,0.0,0.5,False,True,H*,-0.404760083059017,deposited
+MamunHighT2019,Ni6Y6_0.5H2(g) + * -> H*_1,Ni6Y6,0.0,0.5,False,True,H*,-0.5896553138581737,deposited
+MamunHighT2019,Ni6Y6_0.5N2(g) + * -> N*,Ni6Y6,0.0,0.5,False,True,N*,-1.5817814172132785,deposited
+MamunHighT2019,Ni6Y6_0.5N2(g) + * -> N*_1,Ni6Y6,0.0,0.5,False,True,N*,-0.9261137351149955,deposited
+MamunHighT2019,Ni6Tl6_0.5H2(g) + * -> H*,Ni6Tl6,0.0,0.5,False,True,H*,-0.17920968426093964,deposited
+MamunHighT2019,Ni6Tl6_0.5H2(g) + * -> H*_1,Ni6Tl6,0.0,0.5,False,True,H*,0.14895906094264433,deposited
+MamunHighT2019,Fe6W6_0.5H2(g) + * -> H*,Fe6W6,0.5,0.0,True,False,H*,-0.7054412489587492,deposited
+MamunHighT2019,Ni9Zr3_0.5H2(g) + * -> H*,Ni9Zr3,0.0,0.75,False,True,H*,-0.08950586075567912,deposited
+MamunHighT2019,Ni9Zr3_0.5H2(g) + * -> H*_1,Ni9Zr3,0.0,0.75,False,True,H*,0.7064697031464959,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + * -> H*_1,Cu9Ni3,0.0,0.25,False,True,H*,0.14206573704089465,deposited
+MamunHighT2019,Fe9Tl3_0.5H2(g) + * -> H*_1,Fe9Tl3,0.75,0.0,True,False,H*,2.190818311443792,deposited
+MamunHighT2019,Fe9Sn3_0.5H2(g) + * -> H*_1,Fe9Sn3,0.75,0.0,True,False,H*,1.6100853382386333,deposited
+MamunHighT2019,Fe9Sn3_0.5N2(g) + * -> N*,Fe9Sn3,0.75,0.0,True,False,N*,1.69191092188521,deposited
+MamunHighT2019,Fe9Sn3_0.5N2(g) + * -> N*_1,Fe9Sn3,0.75,0.0,True,False,N*,4.480766061684335,deposited
+MamunHighT2019,Fe9W3_0.5H2(g) + * -> H*_1,Fe9W3,0.75,0.0,True,False,H*,0.11468496234104464,deposited
+MamunHighT2019,Fe9W3_0.5N2(g) + * -> N*,Fe9W3,0.75,0.0,True,False,N*,0.5536822725898674,deposited
+MamunHighT2019,Hf9Ni3_0.5H2(g) + * -> H*_1,Hf9Ni3,0.0,0.25,False,True,H*,0.03942575774365764,deposited
+MamunHighT2019,Fe9Ti3_0.5H2(g) + * -> H*_1,Fe9Ti3,0.75,0.0,True,False,H*,0.6421433523437656,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + * -> H*,Al9Fe3,0.25,0.0,True,False,H*,0.28136911054301095,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + * -> H*,Fe3Ga9,0.25,0.0,True,False,H*,0.5216641338420516,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + * -> H*_1,Fe3Ga9,0.25,0.0,True,False,H*,0.3900788612382087,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + * -> H*,Ni3Pt9,0.0,0.25,False,True,H*,-0.24806523395724867,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + * -> H*_1,Ni3Pt9,0.0,0.25,False,True,H*,0.24862619653961815,deposited
+MamunHighT2019,Ni9Y3_0.5H2(g) + * -> H*,Ni9Y3,0.0,0.75,False,True,H*,-0.23746286245929582,deposited
+MamunHighT2019,Ni9Y3_0.5H2(g) + * -> H*_1,Ni9Y3,0.0,0.75,False,True,H*,1.049618995443808,deposited
+MamunHighT2019,Ni9Y3_0.5N2(g) + * -> N*,Ni9Y3,0.0,0.75,False,True,N*,-0.21747991060874483,deposited
+MamunHighT2019,Ni9Sc3_0.5H2(g) + * -> H*_2,Ni9Sc3,0.0,0.75,False,True,H*,-0.5936662719604726,deposited
+MamunHighT2019,Ni9Sc3_0.5N2(g) + * -> N*,Ni9Sc3,0.0,0.75,False,True,N*,-0.1743970789193554,deposited
+MamunHighT2019,Hf3Ni9_0.5H2(g) + * -> H*_2,Hf3Ni9,0.0,0.75,False,True,H*,-0.4243616674566226,deposited
+MamunHighT2019,Hf3Ni9_0.5H2(g) + * -> H*_3,Hf3Ni9,0.0,0.75,False,True,H*,-0.2644844469532188,deposited
+MamunHighT2019,Hf3Ni9_0.5N2(g) + * -> N*,Hf3Ni9,0.0,0.75,False,True,N*,-0.050477933409638354,deposited
+MamunHighT2019,Ni9Ti3_0.5H2(g) + * -> H*,Ni9Ti3,0.0,0.75,False,True,H*,-0.48734785766188793,deposited
+MamunHighT2019,Ni9Ti3_0.5H2(g) + * -> H*_1,Ni9Ti3,0.0,0.75,False,True,H*,-0.4282477251608441,deposited
+MamunHighT2019,Ni9Ti3_0.5N2(g) + * -> N*,Ni9Ti3,0.0,0.75,False,True,N*,-0.23477546621325018,deposited
+MamunHighT2019,Ni9Ta3_0.5H2(g) + * -> H*_1,Ni9Ta3,0.0,0.75,False,True,H*,-0.4861841628580521,deposited
+MamunHighT2019,Ni9Ta3_0.5H2(g) + * -> H*_2,Ni9Ta3,0.0,0.75,False,True,H*,0.0626418302427112,deposited
+MamunHighT2019,Ni9Ta3_0.5N2(g) + * -> N*,Ni9Ta3,0.0,0.75,False,True,N*,-0.5599659253075515,deposited
+MamunHighT2019,Nb3Ni9_0.5N2(g) + * -> N*,Nb3Ni9,0.0,0.75,False,True,N*,-0.5425680550124525,deposited
+MamunHighT2019,Mo3Ni9_0.5H2(g) + * -> H*,Mo3Ni9,0.0,0.75,False,True,H*,-0.30085436616261063,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + * -> H*_1,Ni9Rh3,0.0,0.75,False,True,H*,0.04841721534560861,deposited
+MamunHighT2019,Ni9Y3_0.5H2(g) + * -> H*_2,Ni9Y3,0.0,0.75,False,True,H*,-0.40830341345915144,deposited
+MamunHighT2019,Ni9Sc3_0.5H2(g) + * -> H*_3,Ni9Sc3,0.0,0.75,False,True,H*,-0.4156805557567793,deposited
+MamunHighT2019,Ni9Zr3_0.5H2(g) + * -> H*_2,Ni9Zr3,0.0,0.75,False,True,H*,-0.4431584750554691,deposited
+MamunHighT2019,Ni9Zr3_0.5H2(g) + * -> H*_3,Ni9Zr3,0.0,0.75,False,True,H*,-0.47593921285348983,deposited
+MamunHighT2019,Nb3Ni9_0.5N2(g) + * -> N*_1,Nb3Ni9,0.0,0.75,False,True,N*,-0.4020571764140186,deposited
+MamunHighT2019,Ni9V3_0.5H2(g) + * -> H*_1,Ni9V3,0.0,0.75,False,True,H*,-0.338061579858703,deposited
+MamunHighT2019,Ni9V3_0.5H2(g) + * -> H*_2,Ni9V3,0.0,0.75,False,True,H*,-0.3814804720595646,deposited
+MamunHighT2019,Ni9V3_0.5N2(g) + * -> N*,Ni9V3,0.0,0.75,False,True,N*,-0.6101192270161846,deposited
+MamunHighT2019,Ni9V3_0.5N2(g) + * -> N*_1,Ni9V3,0.0,0.75,False,True,N*,-0.5040609535153635,deposited
+MamunHighT2019,Mo3Ni9_0.5H2(g) + * -> H*_1,Mo3Ni9,0.0,0.75,False,True,H*,-0.43470716346106997,deposited
+MamunHighT2019,Mo3Ni9_0.5N2(g) + * -> N*,Mo3Ni9,0.0,0.75,False,True,N*,-0.6979004302138492,deposited
+MamunHighT2019,Ni9W3_0.5N2(g) + * -> N*,Ni9W3,0.0,0.75,False,True,N*,-0.9037036639147118,deposited
+MamunHighT2019,Ni9Re3_0.5H2(g) + * -> H*_2,Ni9Re3,0.0,0.75,False,True,H*,-0.3369294502544733,deposited
+MamunHighT2019,Ni9Re3_0.5H2(g) + * -> H*_3,Ni9Re3,0.0,0.75,False,True,H*,-0.47449456046066985,deposited
+MamunHighT2019,Ni9Re3_0.5N2(g) + * -> N*,Ni9Re3,0.0,0.75,False,True,N*,-0.7923812122116942,deposited
+MamunHighT2019,Ni9Re3_0.5N2(g) + * -> N*_1,Ni9Re3,0.0,0.75,False,True,N*,-0.9151114923097339,deposited
+MamunHighT2019,Ni9Re3_0.5N2(g) + * -> N*_2,Ni9Re3,0.0,0.75,False,True,N*,-0.9597065966099763,deposited
+MamunHighT2019,Ni9Tc3_0.5H2(g) + * -> H*,Ni9Tc3,0.0,0.75,False,True,H*,-0.3367529843589807,deposited
+MamunHighT2019,Ni9Tc3_0.5H2(g) + * -> H*_1,Ni9Tc3,0.0,0.75,False,True,H*,-0.40934778635616453,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + * -> H*,Ni9Os3,0.0,0.75,False,True,H*,-0.3553534619631762,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + * -> H*_1,Ni9Os3,0.0,0.75,False,True,H*,-0.4447194561571166,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni9Os3,0.0,0.75,False,True,NH*,0.0881482847244115,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni9Os3,0.0,0.75,False,True,NH*,0.06606747122623347,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni9Os3,0.0,0.75,False,True,NH*,-1.057319000771713,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni9Os3,0.0,0.75,False,True,NH*,-1.1441497103742222,deposited
+MamunHighT2019,Ni9Os3_0.5N2(g) + * -> N*,Ni9Os3,0.0,0.75,False,True,N*,-0.580113098012589,deposited
+MamunHighT2019,Ni9Os3_0.5N2(g) + * -> N*_1,Ni9Os3,0.0,0.75,False,True,N*,-0.7161511054164293,deposited
+MamunHighT2019,Ni9Os3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni9Os3,0.0,0.75,False,True,NH*,-0.3268428705714541,deposited
+MamunHighT2019,Ni9Ru3_0.5H2(g) + * -> H*,Ni9Ru3,0.0,0.75,False,True,H*,-0.34792801945783935,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + * -> H*_2,Ir3Ni9,0.0,0.75,False,True,H*,-0.3074504056630474,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + * -> H*_3,Ir3Ni9,0.0,0.75,False,True,H*,-0.3343985194651111,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ir3Ni9,0.0,0.75,False,True,NH*,-0.24298813397854246,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ir3Ni9,0.0,0.75,False,True,NH*,-0.0833230261787321,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ir3Ni9,0.0,0.75,False,True,NH*,-0.6372756438731813,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ir3Ni9,0.0,0.75,False,True,NH*,-0.6948005093736356,deposited
+MamunHighT2019,Ir3Ni9_0.5N2(g) + * -> N*,Ir3Ni9,0.0,0.75,False,True,N*,-0.018377344118562178,deposited
+MamunHighT2019,Ir3Ni9_0.5N2(g) + * -> N*_1,Ir3Ni9,0.0,0.75,False,True,N*,-0.1368531244170299,deposited
+MamunHighT2019,Ir3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ir3Ni9,0.0,0.75,False,True,NH*,0.925552092127873,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + * -> H*_2,Ni9Rh3,0.0,0.75,False,True,H*,-0.19670565165776566,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + * -> H*_3,Ni9Rh3,0.0,0.75,False,True,H*,-0.2156928028552727,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + * -> H*_4,Ni9Rh3,0.0,0.75,False,True,H*,-0.31130108855629146,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni9Rh3,0.0,0.75,False,True,NH*,-0.4084928046731875,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni9Rh3,0.0,0.75,False,True,NH*,-0.3340869490721161,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni9Rh3,0.0,0.75,False,True,NH*,-0.5261068003683249,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni9Rh3,0.0,0.75,False,True,NH*,-0.5624345420665122,deposited
+MamunHighT2019,Ni9Rh3_0.5N2(g) + * -> N*,Ni9Rh3,0.0,0.75,False,True,N*,0.17487218968562956,deposited
+MamunHighT2019,Ni9Rh3_0.5N2(g) + * -> N*_1,Ni9Rh3,0.0,0.75,False,True,N*,0.0810160450910189,deposited
+MamunHighT2019,Ni9Rh3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni9Rh3,0.0,0.75,False,True,NH*,1.4645829394276006,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + * -> H*,Co3Ni9,0.0,0.75,False,True,H*,-0.1591467309544612,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + * -> H*_1,Co3Ni9,0.0,0.75,False,True,H*,-0.3012198151545533,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + * -> H*_2,Co3Ni9,0.0,0.75,False,True,H*,-0.2830672370537002,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Co3Ni9,0.0,0.75,False,True,NH*,-0.30534410857308103,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Co3Ni9,0.0,0.75,False,True,NH*,-0.3984460896690507,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Co3Ni9,0.0,0.75,False,True,NH*,-0.6306227326722365,deposited
+MamunHighT2019,Co3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Co3Ni9,0.0,0.75,False,True,NH*,-0.5542607866673279,deposited
+MamunHighT2019,Co3Ni9_0.5N2(g) + * -> N*,Co3Ni9,0.0,0.75,False,True,N*,0.16904432758565235,deposited
+MamunHighT2019,Co3Ni9_0.5N2(g) + * -> N*_1,Co3Ni9,0.0,0.75,False,True,N*,0.15211462898696482,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + * -> H*_1,Co6Ni6,0.0,0.5,False,True,H*,-0.16869330076494293,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + * -> H*_2,Co6Ni6,0.0,0.5,False,True,H*,-0.15728220696379935,deposited
+MamunHighT2019,Co6Ni6_0.5N2(g) + * -> N*_1,Co6Ni6,0.0,0.5,False,True,N*,0.42762580897942826,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Co6Ni6,0.0,0.5,False,True,NH*,-0.7014715161722052,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Co6Ni6,0.0,0.5,False,True,NH*,-0.6407044143716121,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Co6Ni6,0.0,0.5,False,True,NH*,-0.47186784567838913,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Co6Ni6,0.0,0.5,False,True,NH*,-0.5117530675715898,deposited
+MamunHighT2019,Co6Ni6_0.5N2(g) + * -> N*_2,Co6Ni6,0.0,0.5,False,True,N*,0.11457856588640425,deposited
+MamunHighT2019,Co6Ni6_0.5N2(g) + * -> N*_3,Co6Ni6,0.0,0.5,False,True,N*,0.25707709998641803,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Co6Ni6,0.0,0.5,False,True,NH*,1.500266995723905,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + * -> H*,Co9Fe3,0.25,0.0,True,False,H*,0.44891994134471247,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + * -> H*_1,Co9Fe3,0.25,0.0,True,False,H*,0.4975718548458019,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + * -> H*_2,Co9Fe3,0.25,0.0,True,False,H*,0.3253775374405734,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*,Co9Fe3,0.25,0.0,True,False,NH*,0.05368016903139505,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Co9Fe3,0.25,0.0,True,False,NH*,-0.3982644536672524,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Co9Fe3,0.25,0.0,True,False,NH*,-0.31497598596706666,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Co9Fe3,0.25,0.0,True,False,NH*,-0.37693317776665936,deposited
+MamunHighT2019,Co9Fe3_0.5N2(g) + * -> N*,Co9Fe3,0.25,0.0,True,False,N*,0.0777734004859667,deposited
+MamunHighT2019,Co9Fe3_0.5N2(g) + * -> N*_1,Co9Fe3,0.25,0.0,True,False,N*,-0.04673813691078976,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Co9Fe3,0.25,0.0,True,False,NH*,1.517149754631646,deposited
+MamunHighT2019,Co9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Co9Fe3,0.25,0.0,True,False,NH*,1.269148195328853,deposited
+MamunHighT2019,Co6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*,Co6Fe6,0.5,0.0,True,False,NH*,0.3615931682279552,deposited
+MamunHighT2019,Co6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Co6Fe6,0.5,0.0,True,False,NH*,0.6613597594323437,deposited
+MamunHighT2019,Co6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Co6Fe6,0.5,0.0,True,False,NH*,0.586502466931961,deposited
+MamunHighT2019,Co6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Co6Fe6,0.5,0.0,True,False,NH*,1.7621377892273813,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Co9Ni3,0.0,0.25,False,True,NH*,-0.15438514696961647,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Co9Ni3,0.0,0.25,False,True,NH*,-0.7610611814679942,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Co9Ni3,0.0,0.25,False,True,NH*,-0.7421598821683801,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Co9Ni3,0.0,0.25,False,True,NH*,-0.597920907873231,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Co9Ni3,0.0,0.25,False,True,NH*,-0.6241862879696782,deposited
+MamunHighT2019,Co9Ni3_0.5N2(g) + * -> N*,Co9Ni3,0.0,0.25,False,True,N*,0.0053628194855264155,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Co9Ni3,0.0,0.25,False,True,NH*,1.036084869431761,deposited
+MamunHighT2019,Co9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_6,Co9Ni3,0.0,0.25,False,True,NH*,1.58054901372725,deposited
+MamunHighT2019,Fe9Y3_0.5H2(g) + * -> H*_2,Fe9Y3,0.75,0.0,True,False,H*,-0.18845325525668954,deposited
+MamunHighT2019,Fe9Y3_0.5H2(g) + * -> H*_3,Fe9Y3,0.75,0.0,True,False,H*,-0.3135951443609599,deposited
+MamunHighT2019,Fe9Y3_0.5H2(g) + * -> H*_4,Fe9Y3,0.75,0.0,True,False,H*,-0.048784024757850375,deposited
+MamunHighT2019,Fe9Y3_0.5N2(g) + * -> N*,Fe9Y3,0.75,0.0,True,False,N*,-1.2924305275173538,deposited
+MamunHighT2019,Fe9La3_0.5H2(g) + * -> H*_1,Fe9La3,0.75,0.0,True,False,H*,-0.16952311185647773,deposited
+MamunHighT2019,Fe9La3_0.5H2(g) + * -> H*_2,Fe9La3,0.75,0.0,True,False,H*,-0.3568645100594665,deposited
+MamunHighT2019,Fe9La3_0.5H2(g) + * -> H*_3,Fe9La3,0.75,0.0,True,False,H*,-0.1254431190600087,deposited
+MamunHighT2019,Fe9La3_0.5N2(g) + * -> N*,Fe9La3,0.75,0.0,True,False,N*,-1.1501073707131582,deposited
+MamunHighT2019,Fe9Sc3_0.5H2(g) + * -> H*_1,Fe9Sc3,0.75,0.0,True,False,H*,-0.3660660395534876,deposited
+MamunHighT2019,Fe9Sc3_0.5H2(g) + * -> H*_2,Fe9Sc3,0.75,0.0,True,False,H*,-0.4845928411586726,deposited
+MamunHighT2019,Fe9Sc3_0.5H2(g) + * -> H*_3,Fe9Sc3,0.75,0.0,True,False,H*,1.051191677340313,deposited
+MamunHighT2019,Fe9Sc3_0.5N2(g) + * -> N*,Fe9Sc3,0.75,0.0,True,False,N*,-1.0454058569102926,deposited
+MamunHighT2019,Fe9Sc3_0.5N2(g) + * -> N*_1,Fe9Sc3,0.75,0.0,True,False,N*,-1.0590599851148,deposited
+MamunHighT2019,Fe9Zr3_0.5H2(g) + * -> H*_1,Fe9Zr3,0.75,0.0,True,False,H*,-0.5032448841584198,deposited
+MamunHighT2019,Fe9Zr3_0.5H2(g) + * -> H*_2,Fe9Zr3,0.75,0.0,True,False,H*,-0.5071444115592101,deposited
+MamunHighT2019,Fe9Zr3_0.5N2(g) + * -> N*_2,Fe9Zr3,0.75,0.0,True,False,N*,-1.0888243410172436,deposited
+MamunHighT2019,Fe9Zr3_0.5N2(g) + * -> N*_3,Fe9Zr3,0.75,0.0,True,False,N*,-0.9007762632190861,deposited
+MamunHighT2019,Fe9Hf3_0.5H2(g) + * -> H*_1,Fe9Hf3,0.75,0.0,True,False,H*,-0.3360805910624265,deposited
+MamunHighT2019,Fe9Hf3_0.5H2(g) + * -> H*_2,Fe9Hf3,0.75,0.0,True,False,H*,-0.5261009499581348,deposited
+MamunHighT2019,Fe9Hf3_0.5H2(g) + * -> H*_3,Fe9Hf3,0.75,0.0,True,False,H*,0.5736947488412909,deposited
+MamunHighT2019,Fe9Hf3_0.5N2(g) + * -> N*_1,Fe9Hf3,0.75,0.0,True,False,N*,-0.9196016428122675,deposited
+MamunHighT2019,Fe9Hf3_0.5N2(g) + * -> N*_2,Fe9Hf3,0.75,0.0,True,False,N*,2.642984979085668,deposited
+MamunHighT2019,Fe9Ti3_0.5H2(g) + * -> H*_2,Fe9Ti3,0.75,0.0,True,False,H*,-0.3640353899599802,deposited
+MamunHighT2019,Fe9Ti3_0.5H2(g) + * -> H*_3,Fe9Ti3,0.75,0.0,True,False,H*,-0.5882226345629249,deposited
+MamunHighT2019,Fe9Ti3_0.5N2(g) + * -> N*,Fe9Ti3,0.75,0.0,True,False,N*,-1.1322565668178868,deposited
+MamunHighT2019,Fe9Ti3_0.5N2(g) + * -> N*_1,Fe9Ti3,0.75,0.0,True,False,N*,-1.0356424123183388,deposited
+MamunHighT2019,Fe9Ta3_0.5H2(g) + * -> H*_1,Fe9Ta3,0.75,0.0,True,False,H*,-0.645399194355349,deposited
+MamunHighT2019,Fe9Ta3_0.5H2(g) + * -> H*_2,Fe9Ta3,0.75,0.0,True,False,H*,-0.6617877945600128,deposited
+MamunHighT2019,Fe9Ta3_0.5H2(g) + * -> H*_3,Fe9Ta3,0.75,0.0,True,False,H*,0.29438499574555976,deposited
+MamunHighT2019,Fe9Ta3_0.5N2(g) + * -> N*_1,Fe9Ta3,0.75,0.0,True,False,N*,-1.032545484815273,deposited
+MamunHighT2019,Fe9Ta3_0.5N2(g) + * -> N*_2,Fe9Ta3,0.75,0.0,True,False,N*,1.3068460301856248,deposited
+MamunHighT2019,Fe9Nb3_0.5H2(g) + * -> H*_2,Fe9Nb3,0.75,0.0,True,False,H*,-0.6101697040639635,deposited
+MamunHighT2019,Fe9Nb3_0.5H2(g) + * -> H*_3,Fe9Nb3,0.75,0.0,True,False,H*,-0.6470126933627114,deposited
+MamunHighT2019,Fe9Nb3_0.5N2(g) + * -> N*_1,Fe9Nb3,0.75,0.0,True,False,N*,-0.994932005118244,deposited
+MamunHighT2019,Fe9V3_0.5H2(g) + * -> H*_2,Fe9V3,0.75,0.0,True,False,H*,-0.5317537067594174,deposited
+MamunHighT2019,Fe9V3_0.5H2(g) + * -> H*_3,Fe9V3,0.75,0.0,True,False,H*,-0.5847152232590531,deposited
+MamunHighT2019,Fe9V3_0.5N2(g) + * -> N*,Fe9V3,0.75,0.0,True,False,N*,-1.1094452637134964,deposited
+MamunHighT2019,Fe9V3_0.5N2(g) + * -> N*_1,Fe9V3,0.75,0.0,True,False,N*,-1.014131949408693,deposited
+MamunHighT2019,Fe9Mo3_0.5H2(g) + * -> H*,Fe9Mo3,0.75,0.0,True,False,H*,-0.5583981415538517,deposited
+MamunHighT2019,Fe9Mo3_0.5H2(g) + * -> H*_1,Fe9Mo3,0.75,0.0,True,False,H*,-0.5932589175563123,deposited
+MamunHighT2019,Fe9Mo3_0.5N2(g) + * -> N*,Fe9Mo3,0.75,0.0,True,False,N*,-1.0324147341107164,deposited
+MamunHighT2019,Fe9Mo3_0.5N2(g) + * -> N*_1,Fe9Mo3,0.75,0.0,True,False,N*,-1.011380062214812,deposited
+MamunHighT2019,Fe9W3_0.5H2(g) + * -> H*_2,Fe9W3,0.75,0.0,True,False,H*,-0.5852746892551011,deposited
+MamunHighT2019,Fe9W3_0.5H2(g) + * -> H*_3,Fe9W3,0.75,0.0,True,False,H*,-0.6227423158552199,deposited
+MamunHighT2019,Fe9W3_0.5N2(g) + * -> N*_1,Fe9W3,0.75,0.0,True,False,N*,-1.1055540358156577,deposited
+MamunHighT2019,Fe9W3_0.5N2(g) + * -> N*_2,Fe9W3,0.75,0.0,True,False,N*,-1.0619853449115908,deposited
+MamunHighT2019,Fe9Ru3_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe9Ru3,0.75,0.0,True,False,NH*,-0.648815991772608,deposited
+MamunHighT2019,Fe9Ru3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe9Ru3,0.75,0.0,True,False,NH*,-1.0090808363684118,deposited
+MamunHighT2019,Fe9Ru3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe9Ru3,0.75,0.0,True,False,NH*,-1.0669051631712136,deposited
+MamunHighT2019,Fe9Ru3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe9Ru3,0.75,0.0,True,False,NH*,0.6642463430316639,deposited
+MamunHighT2019,Fe9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe9Ni3,0.75,0.25,True,True,NH*,-0.3071346175720464,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_5,Fe6Pt6,0.5,0.0,True,False,H*,0.29852303094324384,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + * -> H*_6,Fe6Pt6,0.5,0.0,True,False,H*,0.18327819434583148,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Pt6,0.5,0.0,True,False,NH*,-0.4028667149696048,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Pt6,0.5,0.0,True,False,NH*,-0.1724042531723171,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Pt6,0.5,0.0,True,False,NH*,0.21087053752762586,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Pt6,0.5,0.0,True,False,NH*,0.13470546592634491,deposited
+MamunHighT2019,Fe6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe6Pt6,0.5,0.0,True,False,NH*,1.037374961232672,deposited
+MamunHighT2019,Fe9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe9Pd3,0.75,0.0,True,False,NH*,1.672648391430812,deposited
+MamunHighT2019,Fe9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe9Pd3,0.75,0.0,True,False,NH*,0.19280489982975269,deposited
+MamunHighT2019,Fe9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe9Pd3,0.75,0.0,True,False,NH*,-0.01917137226791965,deposited
+MamunHighT2019,Fe9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe9Pd3,0.75,0.0,True,False,NH*,3.993028945230435,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + * -> H*_4,Fe6Pd6,0.5,0.0,True,False,H*,0.13279332194454696,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Pd6,0.5,0.0,True,False,NH*,-0.4932942253735746,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Pd6,0.5,0.0,True,False,NH*,-0.42242503327088343,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Pd6,0.5,0.0,True,False,NH*,0.12272062002648454,deposited
+MamunHighT2019,Fe6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Pd6,0.5,0.0,True,False,NH*,0.16621121433036024,deposited
+MamunHighT2019,Au3Fe9_0.5H2(g) + * -> H*,Au3Fe9,0.75,0.0,True,False,H*,1.0180645386363096,deposited
+MamunHighT2019,Au3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*,Au3Fe9,0.75,0.0,True,False,NH*,0.10847382792326243,deposited
+MamunHighT2019,Au3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au3Fe9,0.75,0.0,True,False,NH*,-0.7249731720739874,deposited
+MamunHighT2019,Au3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au3Fe9,0.75,0.0,True,False,NH*,1.1481942743257605,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*_4,Au6Fe6,0.5,0.0,True,False,H*,-0.12384594685769912,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + * -> H*_5,Au6Fe6,0.5,0.0,True,False,H*,0.1999164589442728,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*,Au6Fe6,0.5,0.0,True,False,NH*,-0.3748218464688762,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au6Fe6,0.5,0.0,True,False,NH*,0.46979379392996634,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au6Fe6,0.5,0.0,True,False,NH*,-0.24543253246974928,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Au6Fe6,0.5,0.0,True,False,NH*,0.7072287647306439,deposited
+MamunHighT2019,Au6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Au6Fe6,0.5,0.0,True,False,NH*,0.849163070931354,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + * -> H*_2,Ni3Pt9,0.0,0.25,False,True,H*,-0.24717719045926856,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + * -> H*_3,Ni3Pt9,0.0,0.25,False,True,H*,-0.1821683780644605,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Pt9,0.0,0.25,False,True,NH*,0.2766000434266971,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni3Pt9,0.0,0.25,False,True,NH*,0.19041383542844414,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni3Pt9,0.0,0.25,False,True,NH*,-0.18301723717104323,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni3Pt9,0.0,0.25,False,True,NH*,0.12417996652857255,deposited
+MamunHighT2019,Ni3Pt9_0.5N2(g) + * -> N*,Ni3Pt9,0.0,0.25,False,True,N*,0.9486734688816796,deposited
+MamunHighT2019,Ni3Pt9_0.5N2(g) + * -> N*_1,Ni3Pt9,0.0,0.25,False,True,N*,0.835725000984894,deposited
+MamunHighT2019,Ni3Pt9_0.5N2(g) + * -> N*_2,Ni3Pt9,0.0,0.25,False,True,N*,0.6605470913837053,deposited
+MamunHighT2019,Ni3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni3Pt9,0.0,0.25,False,True,NH*,2.0368127633255426,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + * -> H*,Fe3Pt9,0.25,0.0,True,False,H*,-0.24366052725869736,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + * -> H*_1,Fe3Pt9,0.25,0.0,True,False,H*,-0.11215280705707187,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Pt9,0.25,0.0,True,False,NH*,0.7055091413267292,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Pt9,0.25,0.0,True,False,NH*,0.36805750463008735,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Pt9,0.25,0.0,True,False,NH*,-0.17055510367299576,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Pt9,0.25,0.0,True,False,NH*,0.1319134419236434,deposited
+MamunHighT2019,Fe3Pt9_0.5N2(g) + * -> N*,Fe3Pt9,0.25,0.0,True,False,N*,0.7477171269838436,deposited
+MamunHighT2019,Fe3Pt9_0.5N2(g) + * -> N*_1,Fe3Pt9,0.25,0.0,True,False,N*,0.9381866097883176,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Pt9,0.25,0.0,True,False,NH*,1.5793842304256032,deposited
+MamunHighT2019,Fe3Pt9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Fe3Pt9,0.25,0.0,True,False,NH*,1.4045568034262033,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + * -> H*,Ni3Pd9,0.0,0.25,False,True,H*,-0.05589163825695209,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + * -> H*_1,Ni3Pd9,0.0,0.25,False,True,H*,-0.2528377025582529,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Pd9,0.0,0.25,False,True,NH*,0.5560623163319178,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni3Pd9,0.0,0.25,False,True,NH*,0.49611795062719466,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni3Pd9,0.0,0.25,False,True,NH*,-0.025110392970418616,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni3Pd9,0.0,0.25,False,True,NH*,0.048280342030011525,deposited
+MamunHighT2019,Ni3Pd9_0.5N2(g) + * -> N*,Ni3Pd9,0.0,0.25,False,True,N*,0.7934299388853105,deposited
+MamunHighT2019,Ni3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni3Pd9,0.0,0.25,False,True,NH*,1.4574000864295158,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + * -> H*,Fe3Pd9,0.25,0.0,True,False,H*,-0.15939761986280132,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + * -> H*_1,Fe3Pd9,0.25,0.0,True,False,H*,-0.12579741125861688,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Pd9,0.25,0.0,True,False,NH*,0.8534398840265567,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Pd9,0.25,0.0,True,False,NH*,0.5881023603278663,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Pd9,0.25,0.0,True,False,NH*,-0.07022237747241888,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Pd9,0.25,0.0,True,False,NH*,0.018603606825308816,deposited
+MamunHighT2019,Fe3Pd9_0.5N2(g) + * -> N*,Fe3Pd9,0.25,0.0,True,False,N*,1.511018621682524,deposited
+MamunHighT2019,Fe3Pd9_0.5N2(g) + * -> N*_1,Fe3Pd9,0.25,0.0,True,False,N*,0.8286946678836102,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Pd9,0.25,0.0,True,False,NH*,1.9256824240283095,deposited
+MamunHighT2019,Fe3Pd9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Fe3Pd9,0.25,0.0,True,False,NH*,0.919293609927081,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + * -> H*_2,Au9Fe3,0.25,0.0,True,False,H*,0.2437946793443473,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + * -> H*_3,Au9Fe3,0.25,0.0,True,False,H*,0.21868292594174932,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + * -> H*_4,Au9Fe3,0.25,0.0,True,False,H*,0.21886347344209867,deposited
+MamunHighT2019,Au9Fe3_0.5N2(g) + * -> N*,Au9Fe3,0.25,0.0,True,False,N*,1.4605217763873952,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*,Au9Fe3,0.25,0.0,True,False,NH*,1.5988966974282448,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au9Fe3,0.25,0.0,True,False,NH*,2.1635882878281336,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au9Fe3,0.25,0.0,True,False,NH*,0.36621978383027454,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Au9Fe3,0.25,0.0,True,False,NH*,0.4419151869287816,deposited
+MamunHighT2019,Au9Fe3_0.5N2(g) + * -> N*_1,Au9Fe3,0.25,0.0,True,False,N*,1.3772605200883845,deposited
+MamunHighT2019,Au9Fe3_0.5N2(g) + * -> N*_2,Au9Fe3,0.25,0.0,True,False,N*,1.4309850436893612,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Au9Fe3,0.25,0.0,True,False,NH*,0.9345936187301049,deposited
+MamunHighT2019,Au9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Au9Fe3,0.25,0.0,True,False,NH*,2.7624705739281126,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + * -> H*_2,Ag9Ni3,0.0,0.25,False,True,H*,0.48501597814268393,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + * -> H*_3,Ag9Ni3,0.0,0.25,False,True,H*,-0.020605140153719503,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + * -> H*_4,Ag9Ni3,0.0,0.25,False,True,H*,-0.0399177395583763,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag9Ni3,0.0,0.25,False,True,NH*,1.6376042107285684,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ag9Ni3,0.0,0.25,False,True,NH*,1.9731260161343016,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ag9Ni3,0.0,0.25,False,True,NH*,0.38043541893330257,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ag9Ni3,0.0,0.25,False,True,NH*,0.3989447383346487,deposited
+MamunHighT2019,Ag9Ni3_0.5N2(g) + * -> N*,Ag9Ni3,0.0,0.25,False,True,N*,1.5432404376897466,deposited
+MamunHighT2019,Ag9Ni3_0.5N2(g) + * -> N*_1,Ag9Ni3,0.0,0.25,False,True,N*,1.5534286519887246,deposited
+MamunHighT2019,Ag9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ag9Ni3,0.0,0.25,False,True,NH*,1.0126353234290946,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + * -> H*_1,Ag9Fe3,0.25,0.0,True,False,H*,0.02757696873689497,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + * -> H*_2,Ag9Fe3,0.25,0.0,True,False,H*,0.001229002141400315,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + * -> H*_3,Ag9Fe3,0.25,0.0,True,False,H*,-0.016753776958438493,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + * -> H*_4,Ag9Fe3,0.25,0.0,True,False,H*,0.24003828383959558,deposited
+MamunHighT2019,Ag9Fe3_0.5N2(g) + * -> N*,Ag9Fe3,0.25,0.0,True,False,N*,0.8536828816850175,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag9Fe3,0.25,0.0,True,False,NH*,-0.002320042674000433,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ag9Fe3,0.25,0.0,True,False,NH*,1.4284258130273884,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ag9Fe3,0.25,0.0,True,False,NH*,1.875932123023631,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ag9Fe3,0.25,0.0,True,False,NH*,-0.057198328978302015,deposited
+MamunHighT2019,Ag9Fe3_0.5N2(g) + * -> N*_1,Ag9Fe3,0.25,0.0,True,False,N*,0.830446128586118,deposited
+MamunHighT2019,Ag9Fe3_0.5N2(g) + * -> N*_2,Ag9Fe3,0.25,0.0,True,False,N*,0.8191611594866117,deposited
+MamunHighT2019,Ag9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ag9Fe3,0.25,0.0,True,False,NH*,0.33809899542302446,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + * -> H*_2,Cu9Ni3,0.0,0.25,False,True,H*,-0.1276320028618727,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + * -> H*_3,Cu9Ni3,0.0,0.25,False,True,H*,-0.19024172356054692,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu9Ni3,0.0,0.25,False,True,NH*,0.23918289402990922,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu9Ni3,0.0,0.25,False,True,NH*,0.6281669052250436,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu9Ni3,0.0,0.25,False,True,NH*,-0.07896906867335929,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Cu9Ni3,0.0,0.25,False,True,NH*,-0.053752551372781454,deposited
+MamunHighT2019,Cu9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Cu9Ni3,0.0,0.25,False,True,NH*,1.2785357146267415,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + * -> H*_2,Cu9Fe3,0.25,0.0,True,False,H*,-0.16831900815938639,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + * -> H*_3,Cu9Fe3,0.25,0.0,True,False,H*,-0.23066668325824935,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu9Fe3,0.25,0.0,True,False,NH*,-0.23070940517300187,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu9Fe3,0.25,0.0,True,False,NH*,0.08813590353292966,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu9Fe3,0.25,0.0,True,False,NH*,0.574612044531932,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Cu9Fe3,0.25,0.0,True,False,NH*,-0.463497351870501,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Cu9Fe3,0.25,0.0,True,False,NH*,-0.47499933166636765,deposited
+MamunHighT2019,Cu9Fe3_0.5N2(g) + * -> N*,Cu9Fe3,0.25,0.0,True,False,N*,0.32603129098970385,deposited
+MamunHighT2019,Cu9Fe3_0.5N2(g) + * -> N*_1,Cu9Fe3,0.25,0.0,True,False,N*,0.30932186858808564,deposited
+MamunHighT2019,Cu9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Cu9Fe3,0.25,0.0,True,False,NH*,0.4363827044280697,deposited
+MamunHighT2019,Ni3Zn9_0.5H2(g) + * -> H*,Ni3Zn9,0.0,0.25,False,True,H*,0.5105950871448215,deposited
+MamunHighT2019,Ni3Zn9_0.5H2(g) + * -> H*_1,Ni3Zn9,0.0,0.25,False,True,H*,0.10430966984952761,deposited
+MamunHighT2019,Ni3Zn9_0.5N2(g) + * -> N*,Ni3Zn9,0.0,0.25,False,True,N*,1.8620299630911177,deposited
+MamunHighT2019,Ni3Zn9_0.5N2(g) + * -> N*_1,Ni3Zn9,0.0,0.25,False,True,N*,1.9485960418878676,deposited
+MamunHighT2019,Fe3Zn9_0.5H2(g) + * -> H*,Fe3Zn9,0.25,0.0,True,False,H*,-0.01750195396650156,deposited
+MamunHighT2019,Fe3Zn9_0.5H2(g) + * -> H*_1,Fe3Zn9,0.25,0.0,True,False,H*,-0.03148697256162336,deposited
+MamunHighT2019,Fe3Zn9_0.5H2(g) + * -> H*_2,Fe3Zn9,0.25,0.0,True,False,H*,-0.04987697007069869,deposited
+MamunHighT2019,Fe3Zn9_0.5H2(g) + * -> H*_3,Fe3Zn9,0.25,0.0,True,False,H*,0.8265739486314772,deposited
+MamunHighT2019,Fe3Zn9_0.5H2(g) + * -> H*_4,Fe3Zn9,0.25,0.0,True,False,H*,0.0526770213409975,deposited
+MamunHighT2019,Fe3Zn9_0.5N2(g) + * -> N*,Fe3Zn9,0.25,0.0,True,False,N*,0.6437070543815935,deposited
+MamunHighT2019,Fe3Zn9_0.5N2(g) + * -> N*_1,Fe3Zn9,0.25,0.0,True,False,N*,0.6291013440841198,deposited
+MamunHighT2019,Cd9Ni3_0.5H2(g) + * -> H*,Cd9Ni3,0.0,0.25,False,True,H*,0.7596883671403987,deposited
+MamunHighT2019,Cd9Ni3_0.5H2(g) + * -> H*_1,Cd9Ni3,0.0,0.25,False,True,H*,0.14819387684204344,deposited
+MamunHighT2019,Cd9Ni3_0.5H2(g) + * -> H*_2,Cd9Ni3,0.0,0.25,False,True,H*,1.0084879003416347,deposited
+MamunHighT2019,Cd9Ni3_0.5H2(g) + * -> H*_3,Cd9Ni3,0.0,0.25,False,True,H*,0.1076193905401226,deposited
+MamunHighT2019,Cd9Ni3_0.5H2(g) + * -> H*_4,Cd9Ni3,0.0,0.25,False,True,H*,0.09888535264056486,deposited
+MamunHighT2019,Cd9Ni3_0.5N2(g) + * -> N*,Cd9Ni3,0.0,0.25,False,True,N*,1.6880973824863759,deposited
+MamunHighT2019,Cd9Ni3_0.5N2(g) + * -> N*_1,Cd9Ni3,0.0,0.25,False,True,N*,2.832414578884709,deposited
+MamunHighT2019,Cd9Fe3_0.5H2(g) + * -> H*,Cd9Fe3,0.25,0.0,True,False,H*,0.11942749844186551,deposited
+MamunHighT2019,Cd9Fe3_0.5H2(g) + * -> H*_1,Cd9Fe3,0.25,0.0,True,False,H*,0.1360593683394029,deposited
+MamunHighT2019,Cd9Fe3_0.5H2(g) + * -> H*_2,Cd9Fe3,0.25,0.0,True,False,H*,0.11283948634175545,deposited
+MamunHighT2019,Cd9Fe3_0.5H2(g) + * -> H*_3,Cd9Fe3,0.25,0.0,True,False,H*,1.0026324186410704,deposited
+MamunHighT2019,Cd9Fe3_0.5H2(g) + * -> H*_4,Cd9Fe3,0.25,0.0,True,False,H*,0.13491132003858297,deposited
+MamunHighT2019,Cd9Fe3_0.5N2(g) + * -> N*_1,Cd9Fe3,0.25,0.0,True,False,N*,0.9081098671831569,deposited
+MamunHighT2019,Cd9Fe3_0.5N2(g) + * -> N*_2,Cd9Fe3,0.25,0.0,True,False,N*,0.8600559238857386,deposited
+MamunHighT2019,Cd9Fe3_0.5N2(g) + * -> N*_3,Cd9Fe3,0.25,0.0,True,False,N*,1.1014566816866136,deposited
+MamunHighT2019,Hg9Ni3_0.5N2(g) + * -> N*,Hg9Ni3,0.0,0.25,False,True,N*,1.8600036673869909,deposited
+MamunHighT2019,Fe3Hg9_0.5H2(g) + * -> H*,Fe3Hg9,0.25,0.0,True,False,H*,0.24073639194196517,deposited
+MamunHighT2019,Fe3Hg9_0.5N2(g) + * -> N*,Fe3Hg9,0.25,0.0,True,False,N*,1.1787015010868345,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + * -> H*,Al9Ni3,0.0,0.25,False,True,H*,0.526165168842482,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Al9Ni3,0.0,0.25,False,True,NH*,-1.3417117042708924,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al9Ni3,0.0,0.25,False,True,NH*,-1.4804326180719727,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al9Ni3,0.0,0.25,False,True,NH*,-0.9212677958721542,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al9Ni3,0.0,0.25,False,True,NH*,-0.8424958736713961,deposited
+MamunHighT2019,Al9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Al9Ni3,0.0,0.25,False,True,NH*,2.3294680675289783,deposited
+MamunHighT2019,Al9Ni3_0.5N2(g) + * -> N*_1,Al9Ni3,0.0,0.25,False,True,N*,3.3812042446861597,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + * -> H*_1,Al9Fe3,0.25,0.0,True,False,H*,0.7107482850415465,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + * -> H*_2,Al9Fe3,0.25,0.0,True,False,H*,0.46054573294262013,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + * -> H*_3,Al9Fe3,0.25,0.0,True,False,H*,0.1905376472432465,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*,Al9Fe3,0.25,0.0,True,False,NH*,-0.9869587976709226,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al9Fe3,0.25,0.0,True,False,NH*,-1.3143235824709336,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al9Fe3,0.25,0.0,True,False,NH*,-0.9294754294705854,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al9Fe3,0.25,0.0,True,False,NH*,-0.8949881297712636,deposited
+MamunHighT2019,Al9Fe3_0.5N2(g) + * -> N*_1,Al9Fe3,0.25,0.0,True,False,N*,-0.08120026611322828,deposited
+MamunHighT2019,Al9Fe3_0.5N2(g) + * -> N*_2,Al9Fe3,0.25,0.0,True,False,N*,0.14867211688761017,deposited
+MamunHighT2019,Al9Fe3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Al9Fe3,0.25,0.0,True,False,NH*,1.362470724728155,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + * -> H*,Ga9Ni3,0.0,0.25,False,True,H*,0.6760441106462451,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + * -> H*_1,Ga9Ni3,0.0,0.25,False,True,H*,0.4735695095451149,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ga9Ni3,0.0,0.25,False,True,NH*,0.46723197823212104,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ga9Ni3,0.0,0.25,False,True,NH*,0.39290449133022776,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ga9Ni3,0.0,0.25,False,True,NH*,0.37275010772918904,deposited
+MamunHighT2019,Ga9Ni3_0.5N2(g) + * -> N*,Ga9Ni3,0.0,0.25,False,True,N*,1.1131705021889502,deposited
+MamunHighT2019,Ga9Ni3_0.5N2(g) + * -> N*_1,Ga9Ni3,0.0,0.25,False,True,N*,0.9314524725905358,deposited
+MamunHighT2019,Ga9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ga9Ni3,0.0,0.25,False,True,NH*,1.8946464802274932,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + * -> H*_2,Fe3Ga9,0.25,0.0,True,False,H*,1.0503254029399898,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + * -> H*_3,Fe3Ga9,0.25,0.0,True,False,H*,0.8402687579373662,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Ga9,0.25,0.0,True,False,NH*,0.4798689448280129,deposited
+MamunHighT2019,Fe3Ga9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Ga9,0.25,0.0,True,False,NH*,0.6640511013238211,deposited
+MamunHighT2019,In9Ni3_0.5H2(g) + * -> H*_1,In9Ni3,0.0,0.25,False,True,H*,0.8132127510407656,deposited
+MamunHighT2019,Fe3In9_0.5H2(g) + * -> H*,Fe3In9,0.25,0.0,True,False,H*,0.8719992723427197,deposited
+MamunHighT2019,Fe3In9_0.5H2(g) + * -> H*_1,Fe3In9,0.25,0.0,True,False,H*,0.9503505065449929,deposited
+MamunHighT2019,Fe3In9_0.5H2(g) + * -> H*_2,Fe3In9,0.25,0.0,True,False,H*,0.17043224424290315,deposited
+MamunHighT2019,Fe3In9_0.5N2(g) + * -> N*,Fe3In9,0.25,0.0,True,False,N*,1.982774084286575,deposited
+MamunHighT2019,Ni3Tl9_0.5H2(g) + * -> H*,Ni3Tl9,0.0,0.25,False,True,H*,0.8748961962419628,deposited
+MamunHighT2019,Fe3Tl9_0.5N2(g) + * -> N*,Fe3Tl9,0.25,0.0,True,False,N*,0.8508195638842153,deposited
+MamunHighT2019,Ni3Pb9_0.5H2(g) + * -> H*_1,Ni3Pb9,0.0,0.25,False,True,H*,0.7475575321377903,deposited
+MamunHighT2019,Ni3Pb9_0.5N2(g) + * -> N*,Ni3Pb9,0.0,0.25,False,True,N*,2.3974423764866515,deposited
+MamunHighT2019,Fe3Pb9_0.5H2(g) + * -> H*,Fe3Pb9,0.25,0.0,True,False,H*,0.8329180107439527,deposited
+MamunHighT2019,Fe3Pb9_0.5N2(g) + * -> N*,Fe3Pb9,0.25,0.0,True,False,N*,2.3841313838875067,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + * -> H*,Ni3Sn9,0.0,0.25,False,True,H*,0.1846612129457128,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Sn9,0.0,0.25,False,True,NH*,1.1337923774326555,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni3Sn9,0.0,0.25,False,True,NH*,1.172962620227736,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni3Sn9,0.0,0.25,False,True,NH*,0.3016217273316215,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni3Sn9,0.0,0.25,False,True,NH*,0.4296850305318003,deposited
+MamunHighT2019,Ni3Sn9_0.5N2(g) + * -> N*,Ni3Sn9,0.0,0.25,False,True,N*,1.259636456188673,deposited
+MamunHighT2019,Ni3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni3Sn9,0.0,0.25,False,True,NH*,1.3301106750286635,deposited
+MamunHighT2019,Fe3Sn9_0.5H2(g) + * -> H*,Fe3Sn9,0.25,0.0,True,False,H*,1.0284722127408088,deposited
+MamunHighT2019,Fe3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Sn9,0.25,0.0,True,False,NH*,1.1347768852274385,deposited
+MamunHighT2019,Fe3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Sn9,0.25,0.0,True,False,NH*,0.12769037122689042,deposited
+MamunHighT2019,Fe3Sn9_0.5N2(g) + * -> N*,Fe3Sn9,0.25,0.0,True,False,N*,0.8992156903859723,deposited
+MamunHighT2019,Fe3Sn9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Sn9,0.25,0.0,True,False,NH*,0.5958208693291454,deposited
+MamunHighT2019,Fe12_0.5H2(g) + * -> H*,Fe12,1.0,0.0,True,False,H*,-0.9568485850604418,deposited
+MamunHighT2019,Fe12_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe12,1.0,0.0,True,False,NH*,-0.7234214429709027,deposited
+MamunHighT2019,Ni3Y9_0.5N2(g) + * -> N*,Ni3Y9,0.0,0.25,False,True,N*,-2.4711648182110366,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*_4,Fe6Y6,0.5,0.0,True,False,H*,-0.20927554225542622,deposited
+MamunHighT2019,La9Ni3_0.5H2(g) + * -> H*,La9Ni3,0.0,0.25,False,True,H*,-0.06490881055921705,deposited
+MamunHighT2019,La9Ni3_0.5N2(g) + * -> N*,La9Ni3,0.0,0.25,False,True,N*,-2.268438375713231,deposited
+MamunHighT2019,La6Ni6_0.5H2(g) + * -> H*_3,La6Ni6,0.0,0.5,False,True,H*,-0.3031699189586732,deposited
+MamunHighT2019,La6Ni6_0.5N2(g) + * -> N*_2,La6Ni6,0.0,0.5,False,True,N*,-0.21293057541515736,deposited
+MamunHighT2019,La6Ni6_0.5H2(g) + * -> H*_4,La6Ni6,0.0,0.5,False,True,H*,-0.43105335495690156,deposited
+MamunHighT2019,La6Ni6_0.5N2(g) + * -> N*_3,La6Ni6,0.0,0.5,False,True,N*,-1.2318637014122942,deposited
+MamunHighT2019,La6Ni6_0.5N2(g) + * -> N*_4,La6Ni6,0.0,0.5,False,True,N*,-1.0440647438172164,deposited
+MamunHighT2019,Fe3La9_0.5H2(g) + * -> H*_1,Fe3La9,0.25,0.0,True,False,H*,-0.6103382785576912,deposited
+MamunHighT2019,Fe3La9_0.5N2(g) + * -> N*,Fe3La9,0.25,0.0,True,False,N*,-2.066204459313667,deposited
+MamunHighT2019,Fe3La9_0.5N2(g) + * -> N*_1,Fe3La9,0.25,0.0,True,False,N*,-1.8475862965151464,deposited
+MamunHighT2019,Fe6La6_0.5H2(g) + * -> H*_4,Fe6La6,0.5,0.0,True,False,H*,-0.1631971453561789,deposited
+MamunHighT2019,Fe3Sc9_0.5H2(g) + * -> H*,Fe3Sc9,0.25,0.0,True,False,H*,-1.1187512848582344,deposited
+MamunHighT2019,Fe3Sc9_0.5H2(g) + * -> H*_1,Fe3Sc9,0.25,0.0,True,False,H*,-1.139676566958741,deposited
+MamunHighT2019,Fe3Sc9_0.5N2(g) + * -> N*,Fe3Sc9,0.25,0.0,True,False,N*,-2.516859670611666,deposited
+MamunHighT2019,Fe3Sc9_0.5N2(g) + * -> N*_1,Fe3Sc9,0.25,0.0,True,False,N*,-2.630888294412216,deposited
+MamunHighT2019,Ni3Zr9_0.5H2(g) + * -> H*,Ni3Zr9,0.0,0.25,False,True,H*,-0.9371754347584726,deposited
+MamunHighT2019,Ni6Zr6_0.5H2(g) + * -> H*_1,Ni6Zr6,0.0,0.5,False,True,H*,-0.23656788005516205,deposited
+MamunHighT2019,Ni6Zr6_0.5H2(g) + * -> H*_2,Ni6Zr6,0.0,0.5,False,True,H*,-0.7126098158541652,deposited
+MamunHighT2019,Ni6Zr6_0.5H2(g) + * -> H*_3,Ni6Zr6,0.0,0.5,False,True,H*,-0.6304994650554079,deposited
+MamunHighT2019,Ni6Zr6_0.5N2(g) + * -> N*_1,Ni6Zr6,0.0,0.5,False,True,N*,-1.463220737512529,deposited
+MamunHighT2019,Ni6Zr6_0.5N2(g) + * -> N*_2,Ni6Zr6,0.0,0.5,False,True,N*,-1.8556740641088254,deposited
+MamunHighT2019,Fe3Zr9_0.5H2(g) + * -> H*,Fe3Zr9,0.25,0.0,True,False,H*,-0.9414829968581842,deposited
+MamunHighT2019,Fe3Zr9_0.5H2(g) + * -> H*_1,Fe3Zr9,0.25,0.0,True,False,H*,-0.9623771219584967,deposited
+MamunHighT2019,Fe3Zr9_0.5H2(g) + * -> H*_2,Fe3Zr9,0.25,0.0,True,False,H*,-0.6922593743574623,deposited
+MamunHighT2019,Fe3Zr9_0.5N2(g) + * -> N*,Fe3Zr9,0.25,0.0,True,False,N*,-2.6325271001132933,deposited
+MamunHighT2019,Fe6Zr6_0.5H2(g) + * -> H*_4,Fe6Zr6,0.5,0.0,True,False,H*,-0.4931295964588287,deposited
+MamunHighT2019,Hf6Ni6_0.5H2(g) + * -> H*_2,Hf6Ni6,0.0,0.5,False,True,H*,-0.16852445405581307,deposited
+MamunHighT2019,Ni3Ti9_0.5H2(g) + * -> H*,Ni3Ti9,0.0,0.25,False,True,H*,-0.7162394063588806,deposited
+MamunHighT2019,Ni3Ti9_0.5H2(g) + * -> H*_1,Ni3Ti9,0.0,0.25,False,True,H*,-1.049743079357512,deposited
+MamunHighT2019,Ni3Ti9_0.5H2(g) + * -> H*_2,Ni3Ti9,0.0,0.25,False,True,H*,-1.0317646540561043,deposited
+MamunHighT2019,Ni3Ti9_0.5N2(g) + * -> N*,Ni3Ti9,0.0,0.25,False,True,N*,-2.6772382610124623,deposited
+MamunHighT2019,Ni3Ti9_0.5N2(g) + * -> N*_1,Ni3Ti9,0.0,0.25,False,True,N*,-2.5098486576116557,deposited
+MamunHighT2019,Fe3Ta9_0.5H2(g) + * -> H*,Fe3Ta9,0.25,0.0,True,False,H*,-0.9512846733550475,deposited
+MamunHighT2019,Fe3Ta9_0.5H2(g) + * -> H*_1,Fe3Ta9,0.25,0.0,True,False,H*,-1.0007093901576525,deposited
+MamunHighT2019,Fe3Ta9_0.5N2(g) + * -> N*,Fe3Ta9,0.25,0.0,True,False,N*,-2.4618417900110217,deposited
+MamunHighT2019,Fe6Ta6_0.5H2(g) + * -> H*_3,Fe6Ta6,0.5,0.0,True,False,H*,-0.47831558295999343,deposited
+MamunHighT2019,Fe6Ta6_0.5H2(g) + * -> H*_4,Fe6Ta6,0.5,0.0,True,False,H*,-0.7314279843585325,deposited
+MamunHighT2019,Fe6Ta6_0.5N2(g) + * -> N*_2,Fe6Ta6,0.5,0.0,True,False,N*,-1.7312132759161614,deposited
+MamunHighT2019,Nb9Ni3_0.5H2(g) + * -> H*_1,Nb9Ni3,0.0,0.25,False,True,H*,-0.8630139373589998,deposited
+MamunHighT2019,Nb9Ni3_0.5H2(g) + * -> H*_2,Nb9Ni3,0.0,0.25,False,True,H*,0.08134312584027725,deposited
+MamunHighT2019,Nb9Ni3_0.5N2(g) + * -> N*_1,Nb9Ni3,0.0,0.25,False,True,N*,-1.703377935113167,deposited
+MamunHighT2019,Nb9Ni3_0.5N2(g) + * -> N*_2,Nb9Ni3,0.0,0.25,False,True,N*,1.6446418908872147,deposited
+MamunHighT2019,Nb6Ni6_0.5H2(g) + * -> H*_2,Nb6Ni6,0.0,0.5,False,True,H*,-0.7151740806575333,deposited
+MamunHighT2019,Nb6Ni6_0.5H2(g) + * -> H*_3,Nb6Ni6,0.0,0.5,False,True,H*,-0.5004698672555321,deposited
+MamunHighT2019,Nb6Ni6_0.5H2(g) + * -> H*_4,Nb6Ni6,0.0,0.5,False,True,H*,-0.5210599050614917,deposited
+MamunHighT2019,Nb6Ni6_0.5N2(g) + * -> N*_1,Nb6Ni6,0.0,0.5,False,True,N*,-1.2861724534104724,deposited
+MamunHighT2019,Fe3Nb9_0.5H2(g) + * -> H*,Fe3Nb9,0.25,0.0,True,False,H*,-0.9777507374555796,deposited
+MamunHighT2019,Fe3Nb9_0.5N2(g) + * -> N*,Fe3Nb9,0.25,0.0,True,False,N*,-2.06522049571322,deposited
+MamunHighT2019,Ni3V9_0.5H2(g) + * -> H*,Ni3V9,0.0,0.25,False,True,H*,-1.0122951810580787,deposited
+MamunHighT2019,Ni3V9_0.5H2(g) + * -> H*_1,Ni3V9,0.0,0.25,False,True,H*,-0.959197471757733,deposited
+MamunHighT2019,Ni3V9_0.5H2(g) + * -> H*_2,Ni3V9,0.0,0.25,False,True,H*,-0.7147933934565742,deposited
+MamunHighT2019,Ni3V9_0.5N2(g) + * -> N*,Ni3V9,0.0,0.25,False,True,N*,-2.406540502814096,deposited
+MamunHighT2019,Ni3V9_0.5N2(g) + * -> N*_1,Ni3V9,0.0,0.25,False,True,N*,-2.132927316813948,deposited
+MamunHighT2019,Ni3V9_0.5N2(g) + * -> N*_2,Ni3V9,0.0,0.25,False,True,N*,-1.723456943213023,deposited
+MamunHighT2019,Fe3V9_0.5N2(g) + * -> N*,Fe3V9,0.25,0.0,True,False,N*,-2.372810223712804,deposited
+MamunHighT2019,Cr6Fe6_0.5N2(g) + * -> N*_3,Cr6Fe6,0.5,0.0,True,False,N*,-1.3406195754087094,deposited
+MamunHighT2019,Mo9Ni3_0.5H2(g) + * -> H*_2,Mo9Ni3,0.0,0.25,False,True,H*,-0.7711023181572898,deposited
+MamunHighT2019,Mo9Ni3_0.5H2(g) + * -> H*_3,Mo9Ni3,0.0,0.25,False,True,H*,-0.6664582204602709,deposited
+MamunHighT2019,Mo9Ni3_0.5N2(g) + * -> N*_2,Mo9Ni3,0.0,0.25,False,True,N*,-1.6920627614144905,deposited
+MamunHighT2019,Mo9Ni3_0.5N2(g) + * -> N*_3,Mo9Ni3,0.0,0.25,False,True,N*,-1.5585743246138009,deposited
+MamunHighT2019,Mo6Ni6_0.5H2(g) + * -> H*_3,Mo6Ni6,0.0,0.5,False,True,H*,-0.5165787343566706,deposited
+MamunHighT2019,Fe3Mo9_0.5H2(g) + * -> H*_1,Fe3Mo9,0.25,0.0,True,False,H*,-0.7505790842578506,deposited
+MamunHighT2019,Fe3Mo9_0.5H2(g) + * -> H*_2,Fe3Mo9,0.25,0.0,True,False,H*,-0.7243360174570341,deposited
+MamunHighT2019,Fe3Mo9_0.5H2(g) + * -> H*_3,Fe3Mo9,0.25,0.0,True,False,H*,0.1376331387409948,deposited
+MamunHighT2019,Fe3Mo9_0.5N2(g) + * -> N*,Fe3Mo9,0.25,0.0,True,False,N*,-1.6090679045137222,deposited
+MamunHighT2019,Fe3Mo9_0.5N2(g) + * -> N*_1,Fe3Mo9,0.25,0.0,True,False,N*,0.29710014768534165,deposited
+MamunHighT2019,Fe3Mo9_0.5N2(g) + * -> N*_2,Fe3Mo9,0.25,0.0,True,False,N*,0.6095196241858503,deposited
+MamunHighT2019,Ni3W9_0.5H2(g) + * -> H*_2,Ni3W9,0.0,0.25,False,True,H*,-0.8429711204580315,deposited
+MamunHighT2019,Ni3W9_0.5H2(g) + * -> H*_3,Ni3W9,0.0,0.25,False,True,H*,-0.7006700048577557,deposited
+MamunHighT2019,Ni3W9_0.5N2(g) + * -> N*_2,Ni3W9,0.0,0.25,False,True,N*,-1.8191867276127596,deposited
+MamunHighT2019,Ni3W9_0.5N2(g) + * -> N*_3,Ni3W9,0.0,0.25,False,True,N*,-1.4818840733078105,deposited
+MamunHighT2019,Fe3W9_0.5H2(g) + * -> H*_1,Fe3W9,0.25,0.0,True,False,H*,-0.8143114106596556,deposited
+MamunHighT2019,Fe3W9_0.5H2(g) + * -> H*_2,Fe3W9,0.25,0.0,True,False,H*,-0.8384083155569613,deposited
+MamunHighT2019,Fe3W9_0.5N2(g) + * -> N*,Fe3W9,0.25,0.0,True,False,N*,-2.048270252513248,deposited
+MamunHighT2019,Fe3W9_0.5N2(g) + * -> N*_1,Fe3W9,0.25,0.0,True,False,N*,-1.8836681834127376,deposited
+MamunHighT2019,Ni3Re9_0.5H2(g) + * -> H*,Ni3Re9,0.0,0.25,False,True,H*,-0.4905503654581196,deposited
+MamunHighT2019,Ni3Re9_0.5H2(g) + * -> H*_1,Ni3Re9,0.0,0.25,False,True,H*,-0.5993545396549678,deposited
+MamunHighT2019,Ni3Re9_0.5H2(g) + * -> H*_2,Ni3Re9,0.0,0.25,False,True,H*,-0.5049536230571618,deposited
+MamunHighT2019,Ni3Re9_0.5N2(g) + * -> N*,Ni3Re9,0.0,0.25,False,True,N*,-1.125921620610825,deposited
+MamunHighT2019,Ni3Re9_0.5N2(g) + * -> N*_1,Ni3Re9,0.0,0.25,False,True,N*,-1.307184675913959,deposited
+MamunHighT2019,Ni3Re9_0.5N2(g) + * -> N*_2,Ni3Re9,0.0,0.25,False,True,N*,-0.7566715771117742,deposited
+MamunHighT2019,Ni6Re6_0.5H2(g) + * -> H*_3,Ni6Re6,0.0,0.5,False,True,H*,-0.5273061422549006,deposited
+MamunHighT2019,Ni6Re6_0.5H2(g) + * -> H*_4,Ni6Re6,0.0,0.5,False,True,H*,-0.3424657423592805,deposited
+MamunHighT2019,Ni6Re6_0.5N2(g) + * -> N*_3,Ni6Re6,0.0,0.5,False,True,N*,-0.23777361650900275,deposited
+MamunHighT2019,Fe3Re9_0.5H2(g) + * -> H*_2,Fe3Re9,0.25,0.0,True,False,H*,-0.5098801080521014,deposited
+MamunHighT2019,Fe3Re9_0.5H2(g) + * -> H*_3,Fe3Re9,0.25,0.0,True,False,H*,-0.3929025865572555,deposited
+MamunHighT2019,Fe3Re9_0.5N2(g) + * -> N*_2,Fe3Re9,0.25,0.0,True,False,N*,-1.09867894360832,deposited
+MamunHighT2019,Fe3Re9_0.5N2(g) + * -> N*_3,Fe3Re9,0.25,0.0,True,False,N*,-1.3056836959094653,deposited
+MamunHighT2019,Fe3Re9_0.5N2(g) + * -> N*_4,Fe3Re9,0.25,0.0,True,False,N*,-1.1649839703113685,deposited
+MamunHighT2019,Ni3Tc9_0.5N2(g) + * -> N*,Ni3Tc9,0.0,0.25,False,True,N*,-1.1967411519090092,deposited
+MamunHighT2019,Ni3Tc9_0.5N2(g) + * -> N*_1,Ni3Tc9,0.0,0.25,False,True,N*,-0.7615092169089621,deposited
+MamunHighT2019,Fe3Tc9_0.5H2(g) + * -> H*,Fe3Tc9,0.25,0.0,True,False,H*,-0.6634664647562829,deposited
+MamunHighT2019,Fe3Tc9_0.5H2(g) + * -> H*_1,Fe3Tc9,0.25,0.0,True,False,H*,-0.5618972533584099,deposited
+MamunHighT2019,Fe3Tc9_0.5H2(g) + * -> H*_2,Fe3Tc9,0.25,0.0,True,False,H*,-0.5639975640578712,deposited
+MamunHighT2019,Fe3Tc9_0.5N2(g) + * -> N*,Fe3Tc9,0.25,0.0,True,False,N*,-0.9676257896117022,deposited
+MamunHighT2019,Fe3Tc9_0.5N2(g) + * -> N*_1,Fe3Tc9,0.25,0.0,True,False,N*,-1.1955909267144307,deposited
+MamunHighT2019,Fe3Tc9_0.5N2(g) + * -> N*_2,Fe3Tc9,0.25,0.0,True,False,N*,-1.1246458148143574,deposited
+MamunHighT2019,Fe6Tc6_0.5H2(g) + * -> H*_2,Fe6Tc6,0.5,0.0,True,False,H*,-0.3283551431586318,deposited
+MamunHighT2019,Fe6Tc6_0.5H2(g) + * -> H*_3,Fe6Tc6,0.5,0.0,True,False,H*,-0.5427003023641817,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + * -> H*_2,Ni3Os9,0.0,0.25,False,True,H*,-0.17354481835988622,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + * -> H*_3,Ni3Os9,0.0,0.25,False,True,H*,-0.13868104915943036,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Os9,0.0,0.25,False,True,NH*,-1.5524389738720856,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni3Os9,0.0,0.25,False,True,NH*,-1.4304961911702776,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni3Os9,0.0,0.25,False,True,NH*,-0.3936802878679373,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni3Os9,0.0,0.25,False,True,NH*,-0.6564173557717368,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni3Os9,0.0,0.25,False,True,NH*,0.389661166532278,deposited
+MamunHighT2019,Ni3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Ni3Os9,0.0,0.25,False,True,NH*,2.2033826238321126,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_4,Ni6Os6,0.0,0.5,False,True,H*,-0.03483873476122312,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_5,Ni6Os6,0.0,0.5,False,True,H*,-0.26602719636045435,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_6,Ni6Os6,0.0,0.5,False,True,H*,-0.3464833671596068,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni6Os6,0.0,0.5,False,True,NH*,-0.9236253901699456,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni6Os6,0.0,0.5,False,True,NH*,-0.14301881587107346,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni6Os6,0.0,0.5,False,True,NH*,-0.52378185987709,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni6Os6,0.0,0.5,False,True,NH*,-1.269766165875808,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni6Os6,0.0,0.5,False,True,NH*,-1.1301804743716275,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Ni6Os6,0.0,0.5,False,True,NH*,0.13657733702621044,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + * -> H*,Fe3Os9,0.25,0.0,True,False,H*,-0.2624973356568887,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + * -> H*_1,Fe3Os9,0.25,0.0,True,False,H*,-0.3028444708606628,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + * -> H*_2,Fe3Os9,0.25,0.0,True,False,H*,-0.12838752686272414,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + * -> H*_3,Fe3Os9,0.25,0.0,True,False,H*,0.25522903884214543,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Os9,0.25,0.0,True,False,NH*,-1.2427727452750332,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Os9,0.25,0.0,True,False,NH*,-1.3455222504717312,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Os9,0.25,0.0,True,False,NH*,-0.6945377834717874,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Os9,0.25,0.0,True,False,NH*,-1.114765633575189,deposited
+MamunHighT2019,Fe3Os9_0.5N2(g) + * -> N*,Fe3Os9,0.25,0.0,True,False,N*,-0.9386222641132917,deposited
+MamunHighT2019,Fe3Os9_0.5N2(g) + * -> N*_1,Fe3Os9,0.25,0.0,True,False,N*,-0.5823549078140786,deposited
+MamunHighT2019,Fe3Os9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Os9,0.25,0.0,True,False,NH*,0.35333288052697753,deposited
+MamunHighT2019,Fe3Os9_0.5N2(g) + * -> N*_2,Fe3Os9,0.25,0.0,True,False,N*,1.363325706382966,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_4,Fe6Os6,0.5,0.0,True,False,H*,-0.13945657355995422,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_5,Fe6Os6,0.5,0.0,True,False,H*,-0.2089341754608256,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + * -> H*_6,Fe6Os6,0.5,0.0,True,False,H*,-0.33586738986102205,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Os6,0.5,0.0,True,False,NH*,-0.7096346591724796,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Os6,0.5,0.0,True,False,NH*,-1.1129717229714515,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Os6,0.5,0.0,True,False,NH*,-1.3947047858682708,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Os6,0.5,0.0,True,False,NH*,-1.3512498384743594,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe6Os6,0.5,0.0,True,False,NH*,0.7899157248311894,deposited
+MamunHighT2019,Fe6Os6_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Fe6Os6,0.5,0.0,True,False,NH*,0.1368735330315758,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Ru9,0.0,0.25,False,True,NH*,-1.406917118970341,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni3Ru9,0.0,0.25,False,True,NH*,-1.2803305775751141,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni3Ru9,0.0,0.25,False,True,NH*,-0.45660416407281446,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni3Ru9,0.0,0.25,False,True,NH*,-0.7572332200734309,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni3Ru9,0.0,0.25,False,True,NH*,0.3641411062262705,deposited
+MamunHighT2019,Ni3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Ni3Ru9,0.0,0.25,False,True,NH*,0.7482085645233383,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni6Ru6,0.0,0.5,False,True,NH*,-0.6531318532734076,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni6Ru6,0.0,0.5,False,True,NH*,-0.2799240500689848,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni6Ru6,0.0,0.5,False,True,NH*,-0.61783637546705,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni6Ru6,0.0,0.5,False,True,NH*,-1.0962397151679397,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni6Ru6,0.0,0.5,False,True,NH*,-1.0110958392697285,deposited
+MamunHighT2019,Ni6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Ni6Ru6,0.0,0.5,False,True,NH*,0.4990692973287878,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + * -> H*,Fe3Ru9,0.25,0.0,True,False,H*,-0.23880343125981085,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + * -> H*_1,Fe3Ru9,0.25,0.0,True,False,H*,-0.2244962298636608,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + * -> H*_2,Fe3Ru9,0.25,0.0,True,False,H*,-0.4449698007583436,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Ru9,0.25,0.0,True,False,NH*,-1.2372569976732848,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Ru9,0.25,0.0,True,False,NH*,-1.2554497125756825,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Ru9,0.25,0.0,True,False,NH*,-0.6582365728763762,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Ru9,0.25,0.0,True,False,NH*,-1.0617554086720702,deposited
+MamunHighT2019,Fe3Ru9_0.5N2(g) + * -> N*,Fe3Ru9,0.25,0.0,True,False,N*,-0.8536202955165209,deposited
+MamunHighT2019,Fe3Ru9_0.5N2(g) + * -> N*_1,Fe3Ru9,0.25,0.0,True,False,N*,-0.6589595793138869,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Ru9,0.25,0.0,True,False,NH*,0.6358323521262719,deposited
+MamunHighT2019,Fe3Ru9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Fe3Ru9,0.25,0.0,True,False,NH*,0.5842500447242855,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*,Fe6Ru6,0.5,0.0,True,False,H*,-0.35683253665681036,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_1,Fe6Ru6,0.5,0.0,True,False,H*,0.2898496744392389,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Ru6,0.5,0.0,True,False,NH*,-0.8256626394731938,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Ru6,0.5,0.0,True,False,NH*,-1.1443729797692868,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Ru6,0.5,0.0,True,False,NH*,-1.2137307154707742,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Ru6,0.5,0.0,True,False,NH*,-1.2233496675698916,deposited
+MamunHighT2019,Fe6Ru6_0.5N2(g) + * -> N*,Fe6Ru6,0.5,0.0,True,False,N*,-0.3280701039129781,deposited
+MamunHighT2019,Fe6Ru6_0.5N2(g) + * -> N*_1,Fe6Ru6,0.5,0.0,True,False,N*,-0.549282600013612,deposited
+MamunHighT2019,Fe6Ru6_0.5N2(g) + * -> N*_2,Fe6Ru6,0.5,0.0,True,False,N*,-0.7881380051130691,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe6Ru6,0.5,0.0,True,False,NH*,0.48188041032608453,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Fe6Ru6,0.5,0.0,True,False,NH*,0.5261530598281752,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_2,Fe6Ru6,0.5,0.0,True,False,H*,-0.28166408205922266,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_3,Fe6Ru6,0.5,0.0,True,False,H*,-0.25185822875843655,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_4,Fe6Ru6,0.5,0.0,True,False,H*,-0.17545655416230943,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + * -> H*_2,Ir9Ni3,0.0,0.25,False,True,H*,-0.2234000192611063,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + * -> H*_3,Ir9Ni3,0.0,0.25,False,True,H*,-0.16884078646305056,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + * -> H*_4,Ir9Ni3,0.0,0.25,False,True,H*,-0.11879265685908535,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ir9Ni3,0.0,0.25,False,True,NH*,-0.8271587213757812,deposited
+MamunHighT2019,Ir9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ir9Ni3,0.0,0.25,False,True,NH*,-0.3503955477726777,deposited
+MamunHighT2019,Ir9Ni3_0.5N2(g) + * -> N*_2,Ir9Ni3,0.0,0.25,False,True,N*,-0.1390677229155699,deposited
+MamunHighT2019,Ir9Ni3_0.5N2(g) + * -> N*_3,Ir9Ni3,0.0,0.25,False,True,N*,-0.353706356816474,deposited
+MamunHighT2019,Ir9Ni3_0.5N2(g) + * -> N*_4,Ir9Ni3,0.0,0.25,False,True,N*,0.21395249888701073,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_5,Ir6Ni6,0.0,0.5,False,True,H*,-0.27610329965588676,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_6,Ir6Ni6,0.0,0.5,False,True,H*,-0.237677288160711,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + * -> H*_7,Ir6Ni6,0.0,0.5,False,True,H*,-0.08206898945988428,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ir6Ni6,0.0,0.5,False,True,NH*,-0.7528021182743032,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ir6Ni6,0.0,0.5,False,True,NH*,-0.6998863169728793,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ir6Ni6,0.0,0.5,False,True,NH*,-0.24992064217167353,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ir6Ni6,0.0,0.5,False,True,NH*,-0.36642128407493146,deposited
+MamunHighT2019,Ir6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ir6Ni6,0.0,0.5,False,True,NH*,0.7654487450263332,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + * -> H*,Fe3Ir9,0.25,0.0,True,False,H*,-0.16813614766121532,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + * -> H*_1,Fe3Ir9,0.25,0.0,True,False,H*,-0.26235964595886685,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + * -> H*_2,Fe3Ir9,0.25,0.0,True,False,H*,-0.25679627856058573,deposited
+MamunHighT2019,Fe3Ir9_0.5N2(g) + * -> N*,Fe3Ir9,0.25,0.0,True,False,N*,0.5663675394844176,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Ir9,0.25,0.0,True,False,NH*,-0.3828052583749013,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Ir9,0.25,0.0,True,False,NH*,-0.5908832276736575,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Ir9,0.25,0.0,True,False,NH*,-0.4363987591759724,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Ir9,0.25,0.0,True,False,NH*,-0.49856289347098937,deposited
+MamunHighT2019,Fe3Ir9_0.5N2(g) + * -> N*_1,Fe3Ir9,0.25,0.0,True,False,N*,-0.23451546141404833,deposited
+MamunHighT2019,Fe3Ir9_0.5N2(g) + * -> N*_2,Fe3Ir9,0.25,0.0,True,False,N*,0.07543948008424195,deposited
+MamunHighT2019,Fe3Ir9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Ir9,0.25,0.0,True,False,NH*,1.156143944123869,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Ir6,0.5,0.0,True,False,NH*,-0.6480218275764855,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Ir6,0.5,0.0,True,False,NH*,-0.6682220622760724,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Ir6,0.5,0.0,True,False,NH*,-0.6864740980754505,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Ir6,0.5,0.0,True,False,NH*,-0.7502266968740514,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe6Ir6,0.5,0.0,True,False,NH*,0.9275099512296947,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_5,Fe6Ir6,0.5,0.0,True,False,H*,-0.12333464495802104,deposited
+MamunHighT2019,Fe6Ir6_0.5H2(g) + * -> H*_6,Fe6Ir6,0.5,0.0,True,False,H*,0.059911984136334695,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + * -> H*_2,Ni3Rh9,0.0,0.25,False,True,H*,-0.1425491473628142,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + * -> H*_3,Ni3Rh9,0.0,0.25,False,True,H*,-0.1805065788566651,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + * -> H*_4,Ni3Rh9,0.0,0.25,False,True,H*,-0.34607941406190434,deposited
+MamunHighT2019,Ni3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni3Rh9,0.0,0.25,False,True,NH*,-0.45770608907423593,deposited
+MamunHighT2019,Ni3Rh9_0.5N2(g) + * -> N*,Ni3Rh9,0.0,0.25,False,True,N*,0.05428398968615511,deposited
+MamunHighT2019,Ni3Rh9_0.5N2(g) + * -> N*_1,Ni3Rh9,0.0,0.25,False,True,N*,-0.12626490281581937,deposited
+MamunHighT2019,Ni3Rh9_0.5N2(g) + * -> N*_2,Ni3Rh9,0.0,0.25,False,True,N*,0.12882127628654416,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + * -> H*,Fe3Rh9,0.25,0.0,True,False,H*,-0.23099893426021367,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + * -> H*_1,Fe3Rh9,0.25,0.0,True,False,H*,-0.23975623786006395,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + * -> H*_2,Fe3Rh9,0.25,0.0,True,False,H*,-0.32335477925786904,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Rh9,0.25,0.0,True,False,NH*,-0.43510009587134846,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Rh9,0.25,0.0,True,False,NH*,-0.536839650573711,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Rh9,0.25,0.0,True,False,NH*,-0.48161128977244516,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Rh9,0.25,0.0,True,False,NH*,-0.5927714255712999,deposited
+MamunHighT2019,Fe3Rh9_0.5N2(g) + * -> N*,Fe3Rh9,0.25,0.0,True,False,N*,0.11743290398408135,deposited
+MamunHighT2019,Fe3Rh9_0.5N2(g) + * -> N*_1,Fe3Rh9,0.25,0.0,True,False,N*,0.0006570188834302826,deposited
+MamunHighT2019,Fe3Rh9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Rh9,0.25,0.0,True,False,NH*,0.8761099600260422,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + * -> H*,Fe3Ni9,0.25,0.75,True,True,H*,-0.14723195435269076,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + * -> H*_1,Fe3Ni9,0.25,0.75,True,True,H*,-0.29955924035945714,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe3Ni9,0.25,0.75,True,True,NH*,-0.3269262733674623,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe3Ni9,0.25,0.75,True,True,NH*,-0.48108243657134153,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe3Ni9,0.25,0.75,True,True,NH*,-0.7094470366728274,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe3Ni9,0.25,0.75,True,True,NH*,-0.5851820345715169,deposited
+MamunHighT2019,Fe3Ni9_0.5N2(g) + * -> N*,Fe3Ni9,0.25,0.75,True,True,N*,0.16594998508480785,deposited
+MamunHighT2019,Fe3Ni9_0.5N2(g) + * -> N*_1,Fe3Ni9,0.25,0.75,True,True,N*,0.17564716988817963,deposited
+MamunHighT2019,Fe3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe3Ni9,0.25,0.75,True,True,NH*,0.8326058962329626,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_5,Fe6Ni6,0.5,0.5,True,True,H*,0.0033572044422101044,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + * -> H*_6,Fe6Ni6,0.5,0.5,True,True,H*,-0.11529095985949311,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Ni6,0.5,0.5,True,True,NH*,-0.8116951721685837,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Ni6,0.5,0.5,True,True,NH*,-0.7530825315707261,deposited
+MamunHighT2019,Fe6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Ni6,0.5,0.5,True,True,NH*,-0.5797940444690539,deposited
+MamunHighT2019,Mn3Ni9_0.5H2(g) + * -> H*,Mn3Ni9,0.0,0.75,False,True,H*,-0.4143813481559562,deposited
+MamunHighT2019,Mn3Ni9_0.5H2(g) + * -> H*_1,Mn3Ni9,0.0,0.75,False,True,H*,-0.3566280431614075,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + * -> H*_2,Ni9Pt3,0.0,0.75,False,True,H*,-0.2381368884589108,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni9Pt3,0.0,0.75,False,True,NH*,-0.5486706160745598,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni9Pt3,0.0,0.75,False,True,NH*,-0.26084478827488056,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni9Pt3,0.0,0.75,False,True,NH*,-0.22751764587246726,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni9Pt3,0.0,0.75,False,True,NH*,-0.234550155969373,deposited
+MamunHighT2019,Ni9Pt3_0.5N2(g) + * -> N*,Ni9Pt3,0.0,0.75,False,True,N*,0.3095458182851871,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni9Pt3,0.0,0.75,False,True,NH*,1.64833012183135,deposited
+MamunHighT2019,Ni9Pt3_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Ni9Pt3,0.0,0.75,False,True,NH*,2.0998541926301186,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni6Pt6,0.0,0.5,False,True,NH*,-0.07817395196707366,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni6Pt6,0.0,0.5,False,True,NH*,0.03186439443288691,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + * -> H*,Ni9Pd3,0.0,0.75,False,True,H*,-0.1012438992538307,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + * -> H*_1,Ni9Pd3,0.0,0.75,False,True,H*,-0.37625398155702783,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + * -> H*_2,Ni9Pd3,0.0,0.75,False,True,H*,-0.2474356985539714,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni9Pd3,0.0,0.75,False,True,NH*,-0.7100041897656411,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni9Pd3,0.0,0.75,False,True,NH*,-0.5792626060656403,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni9Pd3,0.0,0.75,False,True,NH*,-0.21984838936714368,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni9Pd3,0.0,0.75,False,True,NH*,-0.21766576427125983,deposited
+MamunHighT2019,Ni9Pd3_0.5N2(g) + * -> N*,Ni9Pd3,0.0,0.75,False,True,N*,0.09215461688836513,deposited
+MamunHighT2019,Ni9Pd3_0.5N2(g) + * -> N*_1,Ni9Pd3,0.0,0.75,False,True,N*,0.6213526304909465,deposited
+MamunHighT2019,Ni9Pd3_0.5N2(g) + * -> N*_2,Ni9Pd3,0.0,0.75,False,True,N*,0.5828059364921501,deposited
+MamunHighT2019,Ni9Pd3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni9Pd3,0.0,0.75,False,True,NH*,2.4144542534331777,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + * -> H*,Ni6Pd6,0.0,0.5,False,True,H*,-0.2947020083583709,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + * -> H*_1,Ni6Pd6,0.0,0.5,False,True,H*,-0.21192797185992163,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + * -> H*_2,Ni6Pd6,0.0,0.5,False,True,H*,-0.2374908901610695,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni6Pd6,0.0,0.5,False,True,NH*,-0.3929561929699048,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni6Pd6,0.0,0.5,False,True,NH*,-0.3323965778699858,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni6Pd6,0.0,0.5,False,True,NH*,0.1493258704276741,deposited
+MamunHighT2019,Ni6Pd6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni6Pd6,0.0,0.5,False,True,NH*,0.12527862622573593,deposited
+MamunHighT2019,Ni6Pd6_0.5N2(g) + * -> N*_2,Ni6Pd6,0.0,0.5,False,True,N*,0.4063093632848904,deposited
+MamunHighT2019,Ni6Pd6_0.5N2(g) + * -> N*_3,Ni6Pd6,0.0,0.5,False,True,N*,0.9434294271832186,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + * -> H*,Au3Ni9,0.0,0.75,False,True,H*,0.0995648209436979,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + * -> H*_1,Au3Ni9,0.0,0.75,False,True,H*,-0.374049859455198,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + * -> H*_2,Au3Ni9,0.0,0.75,False,True,H*,-0.278790287752571,deposited
+MamunHighT2019,Au3Ni9_0.5N2(g) + * -> N*,Au3Ni9,0.0,0.75,False,True,N*,0.9319425495905307,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Au3Ni9,0.0,0.75,False,True,NH*,0.07201207023081224,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au3Ni9,0.0,0.75,False,True,NH*,-0.7841399724720759,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au3Ni9,0.0,0.75,False,True,NH*,-0.5718692730670227,deposited
+MamunHighT2019,Au3Ni9_0.5N2(g) + * -> N*_1,Au3Ni9,0.0,0.75,False,True,N*,0.016705068590454175,deposited
+MamunHighT2019,Au3Ni9_0.5N2(g) + * -> N*_2,Au3Ni9,0.0,0.75,False,True,N*,0.16307088469147857,deposited
+MamunHighT2019,Au3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Au3Ni9,0.0,0.75,False,True,NH*,3.147472607232885,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Au6Ni6,0.0,0.5,False,True,NH*,-0.1226305503741969,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au6Ni6,0.0,0.5,False,True,NH*,0.7510762363299364,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au6Ni6,0.0,0.5,False,True,NH*,0.9637416367249898,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Au6Ni6,0.0,0.5,False,True,NH*,1.1924365831282557,deposited
+MamunHighT2019,Au6Ni6_0.5H2(g) + * -> H*_4,Au6Ni6,0.0,0.5,False,True,H*,-0.17405843316279856,deposited
+MamunHighT2019,Au6Ni6_0.5N2(g) + * -> N*_3,Au6Ni6,0.0,0.5,False,True,N*,0.7422019237837958,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + * -> H*_2,Ag3Ni9,0.0,0.75,False,True,H*,0.07249847374717433,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + * -> H*_3,Ag3Ni9,0.0,0.75,False,True,H*,-0.3702986341586154,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag3Ni9,0.0,0.75,False,True,NH*,-0.887642280570617,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ag3Ni9,0.0,0.75,False,True,NH*,-0.9044027242716766,deposited
+MamunHighT2019,Ag3Ni9_0.5N2(g) + * -> N*,Ag3Ni9,0.0,0.75,False,True,N*,-0.1481129229086946,deposited
+MamunHighT2019,Ag3Ni9_0.5N2(g) + * -> N*_1,Ag3Ni9,0.0,0.75,False,True,N*,-0.19543365550816816,deposited
+MamunHighT2019,Ag3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ag3Ni9,0.0,0.75,False,True,NH*,3.1041114031313555,deposited
+MamunHighT2019,Ag6Ni6_0.5H2(g) + * -> H*,Ag6Ni6,0.0,0.5,False,True,H*,-0.291363443763629,deposited
+MamunHighT2019,Ag6Ni6_0.5H2(g) + * -> H*_1,Ag6Ni6,0.0,0.5,False,True,H*,0.02468725593737986,deposited
+MamunHighT2019,Ag6Ni6_0.5H2(g) + * -> H*_2,Ag6Ni6,0.0,0.5,False,True,H*,0.0790996833393649,deposited
+MamunHighT2019,Ag6Ni6_0.5N2(g) + * -> N*,Ag6Ni6,0.0,0.5,False,True,N*,0.33360421908400895,deposited
+MamunHighT2019,Ag6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag6Ni6,0.0,0.5,False,True,NH*,-0.47317317567740247,deposited
+MamunHighT2019,Ag6Ni6_0.5N2(g) + * -> N*_1,Ag6Ni6,0.0,0.5,False,True,N*,1.8560672685835016,deposited
+MamunHighT2019,Ag6Ni6_0.5N2(g) + * -> N*_2,Ag6Ni6,0.0,0.5,False,True,N*,1.865593565880772,deposited
+MamunHighT2019,Ag6Ni6_0.5H2(g) + * -> H*_3,Ag6Ni6,0.0,0.5,False,True,H*,-0.2907500991632048,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + * -> H*,Cu3Ni9,0.0,0.75,False,True,H*,-0.08206191455880685,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + * -> H*_1,Cu3Ni9,0.0,0.75,False,True,H*,-0.372628881063946,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + * -> H*_2,Cu3Ni9,0.0,0.75,False,True,H*,-0.3829591386592881,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu3Ni9,0.0,0.75,False,True,NH*,-0.7649473752762788,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu3Ni9,0.0,0.75,False,True,NH*,-0.7309151858726182,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu3Ni9,0.0,0.75,False,True,NH*,-0.30047694427139504,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Cu3Ni9,0.0,0.75,False,True,NH*,-0.21579675037446577,deposited
+MamunHighT2019,Cu3Ni9_0.5N2(g) + * -> N*,Cu3Ni9,0.0,0.75,False,True,N*,0.007095096281773294,deposited
+MamunHighT2019,Cu3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Cu3Ni9,0.0,0.75,False,True,NH*,2.283526271828123,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + * -> H*_4,Cu6Ni6,0.0,0.5,False,True,H*,-0.2802733081543636,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu6Ni6,0.0,0.5,False,True,NH*,-0.0014907755694366642,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu6Ni6,0.0,0.5,False,True,NH*,-0.4558057820695467,deposited
+MamunHighT2019,Cu6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu6Ni6,0.0,0.5,False,True,NH*,-0.4598601421685089,deposited
+MamunHighT2019,Ni9Zn3_0.5H2(g) + * -> H*_2,Ni9Zn3,0.0,0.75,False,True,H*,-0.3899387225601174,deposited
+MamunHighT2019,Ni9Zn3_0.5N2(g) + * -> N*,Ni9Zn3,0.0,0.75,False,True,N*,-0.03387300271606364,deposited
+MamunHighT2019,Ni9Zn3_0.5N2(g) + * -> N*_1,Ni9Zn3,0.0,0.75,False,True,N*,-0.10321114631551609,deposited
+MamunHighT2019,Cd3Ni9_0.5H2(g) + * -> H*_1,Cd3Ni9,0.0,0.75,False,True,H*,-0.40326699455815174,deposited
+MamunHighT2019,Cd3Ni9_0.5N2(g) + * -> N*,Cd3Ni9,0.0,0.75,False,True,N*,-0.2852019701185782,deposited
+MamunHighT2019,Cd6Ni6_0.5H2(g) + * -> H*_1,Cd6Ni6,0.0,0.5,False,True,H*,-0.3147166614571404,deposited
+MamunHighT2019,Hg6Ni6_0.5H2(g) + * -> H*_2,Hg6Ni6,0.0,0.5,False,True,H*,-0.14624350086430127,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + * -> H*_1,Al3Ni9,0.0,0.75,False,True,H*,-0.37541151715319643,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + * -> H*_2,Al3Ni9,0.0,0.75,False,True,H*,0.8633857808463574,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Al3Ni9,0.0,0.75,False,True,NH*,-0.2542709260678748,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al3Ni9,0.0,0.75,False,True,NH*,-0.5982600977667971,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al3Ni9,0.0,0.75,False,True,NH*,-0.6823971524727312,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al3Ni9,0.0,0.75,False,True,NH*,-0.5470056874701186,deposited
+MamunHighT2019,Al3Ni9_0.5N2(g) + * -> N*_1,Al3Ni9,0.0,0.75,False,True,N*,0.4174663027861243,deposited
+MamunHighT2019,Al3Ni9_0.5N2(g) + * -> N*_2,Al3Ni9,0.0,0.75,False,True,N*,0.47425727718473354,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Al3Ni9,0.0,0.75,False,True,NH*,1.409590501330058,deposited
+MamunHighT2019,Al3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Al3Ni9,0.0,0.75,False,True,NH*,1.354966913530916,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*_3,Al6Ni6,0.0,0.5,False,True,H*,0.005758745142003363,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*_4,Al6Ni6,0.0,0.5,False,True,H*,-0.14121959915698312,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + * -> H*_5,Al6Ni6,0.0,0.5,False,True,H*,0.011260614844132988,deposited
+MamunHighT2019,Al6Ni6_0.5N2(g) + * -> N*,Al6Ni6,0.0,0.5,False,True,N*,0.2608876461872569,deposited
+MamunHighT2019,Al6Ni6_0.5N2(g) + * -> N*_1,Al6Ni6,0.0,0.5,False,True,N*,0.21386705518852978,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Al6Ni6,0.0,0.5,False,True,NH*,-0.47478572226918914,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al6Ni6,0.0,0.5,False,True,NH*,-0.8484430575708757,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al6Ni6,0.0,0.5,False,True,NH*,-0.9393300321726201,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al6Ni6,0.0,0.5,False,True,NH*,-0.9366529761691709,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Al6Ni6,0.0,0.5,False,True,NH*,-0.41965627497211244,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Al6Ni6,0.0,0.5,False,True,NH*,1.2727942487281325,deposited
+MamunHighT2019,Al6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_6,Al6Ni6,0.0,0.5,False,True,NH*,1.965466419630502,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + * -> H*_1,Ga3Ni9,0.0,0.75,False,True,H*,-0.38401466835691167,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + * -> H*_2,Ga3Ni9,0.0,0.75,False,True,H*,1.0303862614391903,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ga3Ni9,0.0,0.75,False,True,NH*,-0.21879422047004482,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ga3Ni9,0.0,0.75,False,True,NH*,-0.5102763058685014,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ga3Ni9,0.0,0.75,False,True,NH*,-0.08891823097019369,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ga3Ni9,0.0,0.75,False,True,NH*,0.0693691645274157,deposited
+MamunHighT2019,Ga3Ni9_0.5N2(g) + * -> N*,Ga3Ni9,0.0,0.75,False,True,N*,0.35741431598398776,deposited
+MamunHighT2019,Ga3Ni9_0.5N2(g) + * -> N*_1,Ga3Ni9,0.0,0.75,False,True,N*,0.33363401548376714,deposited
+MamunHighT2019,Ga3Ni9_0.5N2(g) + * -> N*_2,Ga3Ni9,0.0,0.75,False,True,N*,0.8925690376836428,deposited
+MamunHighT2019,Ga3Ni9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ga3Ni9,0.0,0.75,False,True,NH*,2.4374561722279395,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ga6Ni6,0.0,0.5,False,True,NH*,0.5305125956283518,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ga6Ni6,0.0,0.5,False,True,NH*,0.3325526351245571,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ga6Ni6,0.0,0.5,False,True,NH*,0.21360500952778239,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ga6Ni6,0.0,0.5,False,True,NH*,2.2857600542256478,deposited
+MamunHighT2019,Ga6Ni6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ga6Ni6,0.0,0.5,False,True,NH*,2.1745939320235266,deposited
+MamunHighT2019,In3Ni9_0.5H2(g) + * -> H*_2,In3Ni9,0.0,0.75,False,True,H*,-0.4206313948588729,deposited
+MamunHighT2019,In3Ni9_0.5N2(g) + * -> N*,In3Ni9,0.0,0.75,False,True,N*,0.19906106908274523,deposited
+MamunHighT2019,In3Ni9_0.5N2(g) + * -> N*_1,In3Ni9,0.0,0.75,False,True,N*,0.1792971688828402,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*_2,In6Ni6,0.0,0.5,False,True,H*,1.0040898603411108,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*_3,In6Ni6,0.0,0.5,False,True,H*,-0.04998717606119385,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*_4,In6Ni6,0.0,0.5,False,True,H*,0.19889018164488448,deposited
+MamunHighT2019,In6Ni6_0.5H2(g) + * -> H*_5,In6Ni6,0.0,0.5,False,True,H*,0.19209835623863114,deposited
+MamunHighT2019,In6Ni6_0.5N2(g) + * -> N*,In6Ni6,0.0,0.5,False,True,N*,1.0354297553840297,deposited
+MamunHighT2019,In6Ni6_0.5N2(g) + * -> N*_1,In6Ni6,0.0,0.5,False,True,N*,1.6768343185885897,deposited
+MamunHighT2019,Ni9Tl3_0.5H2(g) + * -> H*_2,Ni9Tl3,0.0,0.75,False,True,H*,-0.40507015686213776,deposited
+MamunHighT2019,Ni6Pb6_0.5H2(g) + * -> H*,Ni6Pb6,0.0,0.5,False,True,H*,-0.1360548784568607,deposited
+MamunHighT2019,Ni6Pb6_0.5H2(g) + * -> H*_1,Ni6Pb6,0.0,0.5,False,True,H*,0.09281190774439096,deposited
+MamunHighT2019,Ni6Pb6_0.5N2(g) + * -> N*,Ni6Pb6,0.0,0.5,False,True,N*,1.0571558684878255,deposited
+MamunHighT2019,Ni6Pb6_0.5N2(g) + * -> N*_1,Ni6Pb6,0.0,0.5,False,True,N*,1.9888635837833135,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + * -> H*_2,Ni9Sn3,0.0,0.75,False,True,H*,-0.32893610616062574,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni9Sn3,0.0,0.75,False,True,NH*,0.07608275722941471,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni9Sn3,0.0,0.75,False,True,NH*,-0.20969554997373052,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ni9Sn3,0.0,0.75,False,True,NH*,0.18496081032844813,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ni9Sn3,0.0,0.75,False,True,NH*,0.4121970904297996,deposited
+MamunHighT2019,Ni9Sn3_0.5N2(g) + * -> N*,Ni9Sn3,0.0,0.75,False,True,N*,0.8065988881844532,deposited
+MamunHighT2019,Ni9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Ni9Sn3,0.0,0.75,False,True,NH*,2.752738966729339,deposited
+MamunHighT2019,Ni6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ni6Sn6,0.0,0.5,False,True,NH*,0.7756727422229233,deposited
+MamunHighT2019,Ni6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ni6Sn6,0.0,0.5,False,True,NH*,0.7751678350241491,deposited
+MamunHighT2019,Ni6Sn6_0.5N2(g) + * -> N*_1,Ni6Sn6,0.0,0.5,False,True,N*,1.8998555553826009,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag6Fe6,0.5,0.0,True,False,NH*,-0.8258295813730001,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ag6Fe6,0.5,0.0,True,False,NH*,0.09484391783098545,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ag6Fe6,0.5,0.0,True,False,NH*,0.11760447172764543,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Ag6Fe6,0.5,0.0,True,False,NH*,0.19297102522887144,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*,Al6Fe6,0.5,0.0,True,False,NH*,-1.0194033387715535,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al6Fe6,0.5,0.0,True,False,NH*,-0.956491707672285,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al6Fe6,0.5,0.0,True,False,NH*,-1.1385466142719451,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al6Fe6,0.5,0.0,True,False,NH*,0.49533249402793444,deposited
+MamunHighT2019,Co6Ni6_0.5N2(g) + * -> N*_4,Co6Ni6,0.0,0.5,False,True,N*,0.3198898176833609,deposited
+MamunHighT2019,Ag3Fe9_0.5N2(g) + * -> N*,Ag3Fe9,0.75,0.0,True,False,N*,-0.44028427271587134,deposited
+MamunHighT2019,Al3Fe9_0.5N2(g) + * -> N*,Al3Fe9,0.75,0.0,True,False,N*,-0.5830236276142386,deposited
+MamunHighT2019,Al3Fe9_0.5N2(g) + * -> N*_1,Al3Fe9,0.75,0.0,True,False,N*,-0.6491217117127235,deposited
+MamunHighT2019,Al3Fe9_0.5N2(g) + * -> N*_2,Al3Fe9,0.75,0.0,True,False,N*,-0.18943164061602147,deposited
+MamunHighT2019,Cd3Fe9_0.5N2(g) + * -> N*,Cd3Fe9,0.75,0.0,True,False,N*,-0.4431738495131867,deposited
+MamunHighT2019,Cu3Fe9_0.5N2(g) + * -> N*,Cu3Fe9,0.75,0.0,True,False,N*,-0.32226986141358793,deposited
+MamunHighT2019,Cu3Fe9_0.5N2(g) + * -> N*_1,Cu3Fe9,0.75,0.0,True,False,N*,-0.4697393711121549,deposited
+MamunHighT2019,Fe9Ga3_0.5N2(g) + * -> N*,Fe9Ga3,0.75,0.0,True,False,N*,-0.4039144894140918,deposited
+MamunHighT2019,Fe9Ga3_0.5N2(g) + * -> N*_1,Fe9Ga3,0.75,0.0,True,False,N*,-0.4134013302191306,deposited
+MamunHighT2019,Fe9Sn3_0.5N2(g) + * -> N*_2,Fe9Sn3,0.75,0.0,True,False,N*,0.20512485388280766,deposited
+MamunHighT2019,Fe9Tl3_0.5N2(g) + * -> N*,Fe9Tl3,0.75,0.0,True,False,N*,-0.026965665116222226,deposited
+MamunHighT2019,Fe9Tl3_0.5N2(g) + * -> N*_1,Fe9Tl3,0.75,0.0,True,False,N*,0.04552600578426791,deposited
+MamunHighT2019,Fe9Zn3_0.5N2(g) + * -> N*,Fe9Zn3,0.75,0.0,True,False,N*,-0.4476052233167138,deposited
+MamunHighT2019,Fe9Zn3_0.5N2(g) + * -> N*_1,Fe9Zn3,0.75,0.0,True,False,N*,-0.6512416145142197,deposited
+MamunHighT2019,Ag6Fe6_0.5N2(g) + * -> N*_3,Ag6Fe6,0.5,0.0,True,False,N*,-0.11687343791163585,deposited
+MamunHighT2019,Ag6Fe6_0.5N2(g) + * -> N*_4,Ag6Fe6,0.5,0.0,True,False,N*,1.0129640368886612,deposited
+MamunHighT2019,Fe6In6_0.5N2(g) + * -> N*_1,Fe6In6,0.5,0.0,True,False,N*,1.2833700889877946,deposited
+MamunHighT2019,Fe12_0.5N2(g) + * -> N*,Fe12,1.0,0.0,True,False,N*,-1.496759856616336,deposited
+MamunHighT2019,Fe6Ru6_0.5N2(g) + * -> N*_3,Fe6Ru6,0.5,0.0,True,False,N*,-0.5913530322159204,deposited
+MamunHighT2019,Fe6W6_0.5N2(g) + * -> N*,Fe6W6,0.5,0.0,True,False,N*,-1.118342025716629,deposited
+MamunHighT2019,Fe6W6_0.5N2(g) + * -> N*_1,Fe6W6,0.5,0.0,True,False,N*,-1.4795951877185871,deposited
+MamunHighT2019,Fe6Zn6_0.5N2(g) + * -> N*_2,Fe6Zn6,0.5,0.0,True,False,N*,-0.02730417471502733,deposited
+MamunHighT2019,Fe6Zn6_0.5N2(g) + * -> N*_3,Fe6Zn6,0.5,0.0,True,False,N*,-0.026616815115630743,deposited
+MamunHighT2019,Fe6Zn6_0.5N2(g) + * -> N*_4,Fe6Zn6,0.5,0.0,True,False,N*,0.6881833810821263,deposited
+MamunHighT2019,Ni6Pb6_0.5N2(g) + * -> N*_2,Ni6Pb6,0.0,0.5,False,True,N*,0.9190843543892697,deposited
+MamunHighT2019,Ni6Ta6_0.5N2(g) + * -> N*_1,Ni6Ta6,0.0,0.5,False,True,N*,-0.9567461342176102,deposited
+MamunHighT2019,Ni6Ta6_0.5N2(g) + * -> N*_2,Ni6Ta6,0.0,0.5,False,True,N*,-0.6007918449122371,deposited
+MamunHighT2019,Ni6Ta6_0.5N2(g) + * -> N*_3,Ni6Ta6,0.0,0.5,False,True,N*,-1.6612168891169858,deposited
+MamunHighT2019,Co6Ni6_0.5H2(g) + * -> H*_3,Co6Ni6,0.0,0.5,False,True,H*,-0.31523599086264653,deposited
+MamunHighT2019,Cr6Fe6_0.5H2(g) + * -> H*_4,Cr6Fe6,0.5,0.0,True,False,H*,-0.6157319831536086,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu6Fe6,0.5,0.0,True,False,NH*,-0.4765743265679703,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu6Fe6,0.5,0.0,True,False,NH*,-0.3040390505711912,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu6Fe6,0.5,0.0,True,False,NH*,-0.8599453095675926,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Cu6Fe6,0.5,0.0,True,False,NH*,-0.8781702699716334,deposited
+MamunHighT2019,Cu6Fe6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Cu6Fe6,0.5,0.0,True,False,NH*,0.4237253292294554,deposited
+MamunHighT2019,Ag3Fe9_0.5H2(g) + * -> H*,Ag3Fe9,0.75,0.0,True,False,H*,0.9072695796430992,deposited
+MamunHighT2019,Ag3Fe9_0.5H2(g) + * -> H*_1,Ag3Fe9,0.75,0.0,True,False,H*,0.8750464030463547,deposited
+MamunHighT2019,Ag3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*,Ag3Fe9,0.75,0.0,True,False,NH*,-0.0523927985714181,deposited
+MamunHighT2019,Ag3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Ag3Fe9,0.75,0.0,True,False,NH*,-0.2817283008707818,deposited
+MamunHighT2019,Ag3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Ag3Fe9,0.75,0.0,True,False,NH*,0.944977890932023,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + * -> H*_1,Al3Fe9,0.75,0.0,True,False,H*,-0.31207634095969183,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + * -> H*_2,Al3Fe9,0.75,0.0,True,False,H*,1.1738600516410145,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*,Al3Fe9,0.75,0.0,True,False,NH*,-0.8885307322716471,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Al3Fe9,0.75,0.0,True,False,NH*,-1.058050578773873,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Al3Fe9,0.75,0.0,True,False,NH*,-0.6934728659734901,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Al3Fe9,0.75,0.0,True,False,NH*,-0.6014888644722305,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Al3Fe9,0.75,0.0,True,False,NH*,0.8200449853275131,deposited
+MamunHighT2019,Al3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_5,Al3Fe9,0.75,0.0,True,False,NH*,1.9347934756287941,deposited
+MamunHighT2019,Cd3Fe9_0.5H2(g) + * -> H*,Cd3Fe9,0.75,0.0,True,False,H*,0.7984746574448138,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + * -> H*,Cu3Fe9,0.75,0.0,True,False,H*,0.7411463941471368,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + * -> H*_1,Cu3Fe9,0.75,0.0,True,False,H*,0.4117943619430946,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + * -> H*_2,Cu3Fe9,0.75,0.0,True,False,H*,0.3254214839480767,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*,Cu3Fe9,0.75,0.0,True,False,NH*,-0.504834301064875,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Cu3Fe9,0.75,0.0,True,False,NH*,-0.5437518862681827,deposited
+MamunHighT2019,Cu3Fe9_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Cu3Fe9,0.75,0.0,True,False,NH*,3.1586258732340866,deposited
+MamunHighT2019,Fe9Ga3_0.5H2(g) + * -> H*_1,Fe9Ga3,0.75,0.0,True,False,H*,-0.1926225835622688,deposited
+MamunHighT2019,Fe9Ga3_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe9Ga3,0.75,0.0,True,False,NH*,-0.7101067767735003,deposited
+MamunHighT2019,Fe9Ga3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe9Ga3,0.75,0.0,True,False,NH*,-0.8467415298737251,deposited
+MamunHighT2019,Fe9Ga3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe9Ga3,0.75,0.0,True,False,NH*,3.2313846237293546,deposited
+MamunHighT2019,Fe9Pb3_0.5H2(g) + * -> H*,Fe9Pb3,0.75,0.0,True,False,H*,0.4301034054379045,deposited
+MamunHighT2019,Fe9Pb3_0.5H2(g) + * -> H*_1,Fe9Pb3,0.75,0.0,True,False,H*,0.35082562363916736,deposited
+MamunHighT2019,Fe9Sn3_0.5H2(g) + * -> H*_2,Fe9Sn3,0.75,0.0,True,False,H*,0.15257586204191398,deposited
+MamunHighT2019,Fe9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe9Sn3,0.75,0.0,True,False,NH*,-0.4212426985695856,deposited
+MamunHighT2019,Fe9Sn3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe9Sn3,0.75,0.0,True,False,NH*,-0.45424629766876023,deposited
+MamunHighT2019,Fe9Tl3_0.5H2(g) + * -> H*_2,Fe9Tl3,0.75,0.0,True,False,H*,0.21884551383939765,deposited
+MamunHighT2019,Fe9Zn3_0.5H2(g) + * -> H*,Fe9Zn3,0.75,0.0,True,False,H*,0.8506460912404066,deposited
+MamunHighT2019,Fe9Zn3_0.5H2(g) + * -> H*_1,Fe9Zn3,0.75,0.0,True,False,H*,0.3159396771380045,deposited
+MamunHighT2019,Fe9Zn3_0.5H2(g) + * -> H*_2,Fe9Zn3,0.75,0.0,True,False,H*,0.18116250923870325,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_5,Ag6Fe6,0.5,0.0,True,False,H*,-0.3020259523536595,deposited
+MamunHighT2019,Ag6Fe6_0.5H2(g) + * -> H*_6,Ag6Fe6,0.5,0.0,True,False,H*,0.019930842042441554,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*_4,Al6Fe6,0.5,0.0,True,False,H*,-0.43011211316022013,deposited
+MamunHighT2019,Al6Fe6_0.5H2(g) + * -> H*_5,Al6Fe6,0.5,0.0,True,False,H*,-0.4489709627586933,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Ga6,0.5,0.0,True,False,NH*,0.26977828553117433,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Ga6,0.5,0.0,True,False,NH*,0.2893727949331151,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Ga6,0.5,0.0,True,False,NH*,1.0190287740324493,deposited
+MamunHighT2019,Fe12_0.5H2(g) + * -> H*_1,Fe12,1.0,0.0,True,False,H*,-0.6441869272593692,deposited
+MamunHighT2019,Fe12_0.5H2(g) + * -> H*_2,Fe12,1.0,0.0,True,False,H*,-0.38302948015822835,deposited
+MamunHighT2019,Fe6In6_0.5H2(g) + * -> H*_1,Fe6In6,0.5,0.0,True,False,H*,-0.15076820985902373,deposited
+MamunHighT2019,Fe6In6_0.5H2(g) + * -> H*_2,Fe6In6,0.5,0.0,True,False,H*,0.5573156726432273,deposited
+MamunHighT2019,Fe6Nb6_0.5H2(g) + * -> H*,Fe6Nb6,0.5,0.0,True,False,H*,-0.47461565125829,deposited
+MamunHighT2019,Fe6Nb6_0.5H2(g) + * -> H*_1,Fe6Nb6,0.5,0.0,True,False,H*,-0.15002220975927116,deposited
+MamunHighT2019,Fe6Nb6_0.5N2(g) + * -> N*,Fe6Nb6,0.5,0.0,True,False,N*,-2.1227649534139346,deposited
+MamunHighT2019,Fe6Nb6_0.5N2(g) + * -> N*_1,Fe6Nb6,0.5,0.0,True,False,N*,-1.5218905220153829,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_5,Fe6Ru6,0.5,0.0,True,False,H*,-0.3315928896617777,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_6,Fe6Ru6,0.5,0.0,True,False,H*,-0.3861679051614999,deposited
+MamunHighT2019,Au9Ni3_0.5N2(g) + * -> N*,Au9Ni3,0.0,0.25,False,True,N*,1.9065038406861277,deposited
+MamunHighT2019,Fe6Nb6_0.5N2(g) + * -> N*_2,Fe6Nb6,0.5,0.0,True,False,N*,-2.028142536213636,deposited
+MamunHighT2019,Fe6Sc6_0.5N2(g) + * -> N*,Fe6Sc6,0.5,0.0,True,False,N*,-2.3435990752132057,deposited
+MamunHighT2019,Fe6Sc6_0.5N2(g) + * -> N*_1,Fe6Sc6,0.5,0.0,True,False,N*,-1.3271734782119893,deposited
+MamunHighT2019,Fe6Sc6_0.5N2(g) + * -> N*_2,Fe6Sc6,0.5,0.0,True,False,N*,-1.3277246447123616,deposited
+MamunHighT2019,Fe6Ti6_0.5N2(g) + * -> N*,Fe6Ti6,0.5,0.0,True,False,N*,-1.9529051006120426,deposited
+MamunHighT2019,Fe6Ti6_0.5N2(g) + * -> N*_1,Fe6Ti6,0.5,0.0,True,False,N*,-1.2015145729110372,deposited
+MamunHighT2019,Fe6Ti6_0.5N2(g) + * -> N*_2,Fe6Ti6,0.5,0.0,True,False,N*,-1.4902862683102285,deposited
+MamunHighT2019,Fe6Ti6_0.5N2(g) + * -> N*_3,Fe6Ti6,0.5,0.0,True,False,N*,-1.490709269311992,deposited
+MamunHighT2019,Fe6V6_0.5N2(g) + * -> N*,Fe6V6,0.5,0.0,True,False,N*,-1.7364516034158441,deposited
+MamunHighT2019,Fe6V6_0.5N2(g) + * -> N*_1,Fe6V6,0.5,0.0,True,False,N*,-2.1453083604155836,deposited
+MamunHighT2019,Fe6V6_0.5N2(g) + * -> N*_2,Fe6V6,0.5,0.0,True,False,N*,-2.1652023310143704,deposited
+MamunHighT2019,Fe6Y6_0.5N2(g) + * -> N*_2,Fe6Y6,0.5,0.0,True,False,N*,-1.0048130029117601,deposited
+MamunHighT2019,Fe6Y6_0.5N2(g) + * -> N*_3,Fe6Y6,0.5,0.0,True,False,N*,-2.3750338019108312,deposited
+MamunHighT2019,Fe6Y6_0.5N2(g) + * -> N*_4,Fe6Y6,0.5,0.0,True,False,N*,-1.4995230365111638,deposited
+MamunHighT2019,Mn9Ni3_0.5N2(g) + * -> N*,Mn9Ni3,0.0,0.25,False,True,N*,-1.3254018811148853,deposited
+MamunHighT2019,Mn9Ni3_0.5N2(g) + * -> N*_1,Mn9Ni3,0.0,0.25,False,True,N*,-1.2710559855131578,deposited
+MamunHighT2019,Ni6Ti6_0.5N2(g) + * -> N*,Ni6Ti6,0.0,0.5,False,True,N*,-2.1471668979156675,deposited
+MamunHighT2019,Ni6Ti6_0.5N2(g) + * -> N*_1,Ni6Ti6,0.0,0.5,False,True,N*,-1.9154491749159206,deposited
+MamunHighT2019,Ni6V6_0.5N2(g) + * -> N*,Ni6V6,0.0,0.5,False,True,N*,-1.4004853002134041,deposited
+MamunHighT2019,Ni6V6_0.5N2(g) + * -> N*_1,Ni6V6,0.0,0.5,False,True,N*,-0.6849274030118977,deposited
+MamunHighT2019,Ni6V6_0.5N2(g) + * -> N*_2,Ni6V6,0.0,0.5,False,True,N*,-1.4004545513180346,deposited
+MamunHighT2019,Ni6V6_0.5N2(g) + * -> N*_3,Ni6V6,0.0,0.5,False,True,N*,-1.423854028516871,deposited
+MamunHighT2019,Ni6Y6_0.5N2(g) + * -> N*_2,Ni6Y6,0.0,0.5,False,True,N*,-1.5816453603129048,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + * -> H*,Au9Ni3,0.0,0.25,False,True,H*,0.11235457954265371,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + * -> H*_1,Au9Ni3,0.0,0.25,False,True,H*,0.11872694134311246,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + * -> H*_2,Fe6Ga6,0.5,0.0,True,False,H*,-0.07452014345378188,deposited
+MamunHighT2019,Fe6Ga6_0.5H2(g) + * -> H*_3,Fe6Ga6,0.5,0.0,True,False,H*,0.25007166534581415,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_7,Fe6Ru6,0.5,0.0,True,False,H*,-0.17400251385603838,deposited
+MamunHighT2019,Fe6Ru6_0.5H2(g) + * -> H*_8,Fe6Ru6,0.5,0.0,True,False,H*,-0.34153348035667364,deposited
+MamunHighT2019,Fe6Sc6_0.5H2(g) + * -> H*,Fe6Sc6,0.5,0.0,True,False,H*,-0.6724135677568199,deposited
+MamunHighT2019,Fe6Sc6_0.5H2(g) + * -> H*_1,Fe6Sc6,0.5,0.0,True,False,H*,-0.672967455458064,deposited
+MamunHighT2019,Fe6Sc6_0.5H2(g) + * -> H*_2,Fe6Sc6,0.5,0.0,True,False,H*,-0.7481535975593658,deposited
+MamunHighT2019,Fe6Sc6_0.5H2(g) + * -> H*_3,Fe6Sc6,0.5,0.0,True,False,H*,-0.7445868654567391,deposited
+MamunHighT2019,Fe6Tc6_0.5H2(g) + * -> H*_4,Fe6Tc6,0.5,0.0,True,False,H*,-0.5076622441619918,deposited
+MamunHighT2019,Fe6Ti6_0.5H2(g) + * -> H*,Fe6Ti6,0.5,0.0,True,False,H*,-0.6711943617546865,deposited
+MamunHighT2019,Fe6Ti6_0.5H2(g) + * -> H*_1,Fe6Ti6,0.5,0.0,True,False,H*,-0.671498448954452,deposited
+MamunHighT2019,Fe6Ti6_0.5H2(g) + * -> H*_2,Fe6Ti6,0.5,0.0,True,False,H*,-0.7972667440544399,deposited
+MamunHighT2019,Fe6Ti6_0.5H2(g) + * -> H*_3,Fe6Ti6,0.5,0.0,True,False,H*,-0.7963744827565904,deposited
+MamunHighT2019,Fe6Ti6_0.5H2(g) + * -> H*_4,Fe6Ti6,0.5,0.0,True,False,H*,0.6024589503440723,deposited
+MamunHighT2019,Fe6V6_0.5H2(g) + * -> H*,Fe6V6,0.5,0.0,True,False,H*,-0.8346255250607726,deposited
+MamunHighT2019,Fe6V6_0.5H2(g) + * -> H*_1,Fe6V6,0.5,0.0,True,False,H*,-0.9635726540609255,deposited
+MamunHighT2019,Fe6V6_0.5H2(g) + * -> H*_2,Fe6V6,0.5,0.0,True,False,H*,-0.8347939635595765,deposited
+MamunHighT2019,Fe6V6_0.5H2(g) + * -> H*_3,Fe6V6,0.5,0.0,True,False,H*,-0.9640035462607273,deposited
+MamunHighT2019,Fe6W6_0.5H2(g) + * -> H*_1,Fe6W6,0.5,0.0,True,False,H*,-0.5197683167561706,deposited
+MamunHighT2019,Fe6W6_0.5H2(g) + * -> H*_2,Fe6W6,0.5,0.0,True,False,H*,-0.6674115712584978,deposited
+MamunHighT2019,Fe6W6_0.5H2(g) + * -> H*_3,Fe6W6,0.5,0.0,True,False,H*,-0.70616888136189,deposited
+MamunHighT2019,Fe6W6_0.5H2(g) + * -> H*_4,Fe6W6,0.5,0.0,True,False,H*,-0.6651620061593064,deposited
+MamunHighT2019,Fe6Y6_0.5H2(g) + * -> H*_5,Fe6Y6,0.5,0.0,True,False,H*,-0.5919032463561678,deposited
+MamunHighT2019,Mn9Ni3_0.5H2(g) + * -> H*,Mn9Ni3,0.0,0.25,False,True,H*,-0.26101485946034586,deposited
+MamunHighT2019,Mn9Ni3_0.5H2(g) + * -> H*_1,Mn9Ni3,0.0,0.25,False,True,H*,-0.6458247804611972,deposited
+MamunHighT2019,Mn9Ni3_0.5H2(g) + * -> H*_2,Mn9Ni3,0.0,0.25,False,True,H*,-0.565873652957606,deposited
+MamunHighT2019,Mo6Ni6_0.5H2(g) + * -> H*_4,Mo6Ni6,0.0,0.5,False,True,H*,-0.4308658684594491,deposited
+MamunHighT2019,Cr3Ni9_0.5H2(g) + * -> H*,Cr3Ni9,0.0,0.75,False,True,H*,-0.5695141278547169,deposited
+MamunHighT2019,Ni6Os6_0.5H2(g) + * -> H*_7,Ni6Os6,0.0,0.5,False,True,H*,-0.295499574057402,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + * -> H*_2,Ni6Pt6,0.0,0.5,False,True,H*,-0.17447218225331085,deposited
+MamunHighT2019,Ni6Pt6_0.5H2(g) + * -> H*_3,Ni6Pt6,0.0,0.5,False,True,H*,-0.2005281708543123,deposited
+MamunHighT2019,Ni6Ta6_0.5H2(g) + * -> H*_3,Ni6Ta6,0.0,0.5,False,True,H*,-0.4311873709584404,deposited
+MamunHighT2019,Ni6Ti6_0.5H2(g) + * -> H*,Ni6Ti6,0.0,0.5,False,True,H*,-0.2849444142620712,deposited
+MamunHighT2019,Ni6Ti6_0.5H2(g) + * -> H*_1,Ni6Ti6,0.0,0.5,False,True,H*,-0.6015696822641701,deposited
+MamunHighT2019,Ni6Ti6_0.5H2(g) + * -> H*_2,Ni6Ti6,0.0,0.5,False,True,H*,-0.6018371701638614,deposited
+MamunHighT2019,Ni6Ti6_0.5H2(g) + * -> H*_3,Ni6Ti6,0.0,0.5,False,True,H*,0.19402859573986575,deposited
+MamunHighT2019,Ni6V6_0.5H2(g) + * -> H*,Ni6V6,0.0,0.5,False,True,H*,-0.5410575510604474,deposited
+MamunHighT2019,Ni6V6_0.5H2(g) + * -> H*_1,Ni6V6,0.0,0.5,False,True,H*,-0.5147913546597636,deposited
+MamunHighT2019,Ni6V6_0.5H2(g) + * -> H*_2,Ni6V6,0.0,0.5,False,True,H*,-0.6753489958564103,deposited
+MamunHighT2019,Ni6V6_0.5H2(g) + * -> H*_3,Ni6V6,0.0,0.5,False,True,H*,-0.7307859318597991,deposited
+MamunHighT2019,Ni6V6_0.5H2(g) + * -> H*_4,Ni6V6,0.0,0.5,False,True,H*,0.25840256654285554,deposited
+MamunHighT2019,Ni6W6_0.5H2(g) + * -> H*_4,Ni6W6,0.0,0.5,False,True,H*,-0.6159996070627756,deposited
+MamunHighT2019,Ni6Y6_0.5H2(g) + * -> H*_2,Ni6Y6,0.0,0.5,False,True,H*,-0.4042298692574775,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*,Au9Ni3,0.0,0.25,False,True,NH*,1.6727060796283695,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Au9Ni3,0.0,0.25,False,True,NH*,2.1003732498311365,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Au9Ni3,0.0,0.25,False,True,NH*,0.6708596617309013,deposited
+MamunHighT2019,Au9Ni3_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Au9Ni3,0.0,0.25,False,True,NH*,0.7814089019293533,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*,Fe6Sn6,0.5,0.0,True,False,NH*,1.421597932631812,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*_1,Fe6Sn6,0.5,0.0,True,False,NH*,0.5603074283271781,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*_2,Fe6Sn6,0.5,0.0,True,False,NH*,-0.28723153106784594,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*_3,Fe6Sn6,0.5,0.0,True,False,NH*,2.2536439546302063,deposited
+MamunHighT2019,Fe6Sn6_0.5H2(g) + 0.5N2(g) + * -> NH*_4,Fe6Sn6,0.5,0.0,True,False,NH*,1.0899908930286983,deposited

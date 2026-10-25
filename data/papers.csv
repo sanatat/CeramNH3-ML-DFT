@@ -1,0 +1,3 @@
+paper_id,doi,authors,year,system,method,notes,url
+pan2020,10.1039/D0TA08313E,Pan Hansen Vegge,2020,VON,R P B E - VASP,Computational reaction paths; not necessarily transferable to high-temperature ceramic reactor,https://doi.org/10.1039/D0TA08313E
+kyriakou2020,10.1016/j.joule.2019.10.006,Kyriakou et al.,2020,VN-Fe ceramic cell,experiment,Experimental ammonia cell; do not mix experimental FE with DFT adsorption energies,https://doi.org/10.1016/j.joule.2019.10.006

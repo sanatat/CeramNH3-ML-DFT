@@ -1,0 +1,29 @@
+material,source_doi,source_figure_or_table,pathway_id,step_index,state,delta_G_eV,reference_conditions,evidence_type,notes
+Al3Fe9,TBD,,example_alternating_verify_mechanism,1,N2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,2,NNH*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,3,NNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,4,NHNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,5,NH2NH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,6,NH2* + NH3,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Al3Fe9,TBD,,example_alternating_verify_mechanism,7,2NH3+*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,1,N2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,2,NNH*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,3,NNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,4,NHNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,5,NH2NH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,6,NH2* + NH3,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Cu3Fe9,TBD,,example_alternating_verify_mechanism,7,2NH3+*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,1,N2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,2,NNH*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,3,NNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,4,NHNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,5,NH2NH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,6,NH2* + NH3,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe9Ga3,TBD,,example_alternating_verify_mechanism,7,2NH3+*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,1,N2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,2,NNH*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,3,NNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,4,NHNH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,5,NH2NH2*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,6,NH2* + NH3,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.
+Fe3Sn9,TBD,,example_alternating_verify_mechanism,7,2NH3+*,,,DFT_CHE,EMPTY means missing. Do NOT fill from H*/N*/NH* adsorption values.

@@ -1,0 +1,5 @@
+representation,model,CV_MAE_mean_eV,CV_MAE_std_eV
+composition_plus_physics,RF,0.4893876501458646,0.04240741025390914
+composition_plus_physics,SVR,0.5052793449224842,0.029451966711427097
+plus_local_relaxed_geometry,RF,0.27056453827637394,0.02311354300813224
+plus_local_relaxed_geometry,SVR,0.3413505772998239,0.05985941416061731

@@ -1,0 +1,4 @@
+record_id,paper_id,material,system,method,quantity,value,unit,condition,source_location,confidence,notes
+P2020_O12,pan2020,VON,oxynitride,DFT-RPBE,onset_potential,0.4,V vs RHE,12.5 percent oxygen,Abstract,reported,Potential convention as given in source; not a comparable adsorption energy
+P2020_O31,pan2020,VON,oxynitride,DFT-RPBE,N2_adsorption_dissociation_barrier,0.3,eV,31.25 percent oxygen,Abstract,approximate,Approximate barrier; not activation barrier for whole pathway
+P2020_O31_OV,pan2020,VON,oxynitride,DFT-RPBE,onset_potential,0.6,V vs RHE,31.25 percent oxygen,Abstract,reported,Potential convention as given in source

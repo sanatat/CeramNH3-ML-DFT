@@ -1,0 +1,5 @@
+source_doi,year,material,facet_or_phase,quantity,value,unit,method,caveat
+10.1039/D3CY00462G,2023,Fe,111>211>210>100>110,modeled activity ranking,111>211>210>100>110,ordinal,DFT + microkinetics,Haber-Bosch-style model; not PCEC ammonia cell
+10.1039/D0TA08313E,2020,VON,12.5% O,reported onset potential,0.4,V vs RHE magnitude,RPBE/VASP,Not an adsorption energy; from published abstract
+10.1039/D0TA08313E,2020,VON,31.25% O,N2 adsorption/dissociation barrier,0.3,eV approx,RPBE/VASP,Barrier not adsorption energy; from published abstract
+10.1039/D0TA08313E,2020,VON,31.25% O,reported onset potential,0.6,V vs RHE magnitude,RPBE/VASP,Not an adsorption energy; from published abstract

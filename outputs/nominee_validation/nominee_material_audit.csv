@@ -1,0 +1,5 @@
+material,sites,adsorbates,site_level_MAE_eV,R2,geometry_data,N2_barrier_available,NH3_experimental_FE_available,verified_N2_electrochemical_match
+Al3Fe9,12,3,0.3351142377550125,0.7960006505758528,post-DFT relaxed,False,False,False
+Cu3Fe9,8,3,0.3865582135741565,0.7400987688804433,post-DFT relaxed,False,False,False
+Fe9Ga3,7,3,0.6571687284702092,0.6412524270994044,post-DFT relaxed,False,False,False
+Fe3Sn9,5,3,0.25214519335514785,0.2698239065203467,post-DFT relaxed,False,False,False

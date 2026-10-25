@@ -1,0 +1,5 @@
+material,median_pred_H_eV,median_pred_N_eV,median_pred_NH_eV,pareto_n_vs_h,FeNi_group,n_H_sites,n_N_sites,n_NH_sites,screening_note
+Al3Fe9,-0.0582939916537093,-0.4851560476579097,-0.5192186271903438,True,False,3,3,6,"Retrospective, relaxed-geometry N/H Pareto proxy; not NH3 activity"
+Cu3Fe9,0.1969356094276501,-0.3676018867739614,-0.2166072508364081,True,False,3,2,3,"Retrospective, relaxed-geometry N/H Pareto proxy; not NH3 activity"
+Fe9Ga3,0.34560451874610254,-0.1795046381535381,-0.1654598553061552,True,False,2,2,3,"Retrospective, relaxed-geometry N/H Pareto proxy; not NH3 activity"
+Fe3Sn9,1.0674057146868794,0.8682274689852338,1.032983262471988,True,False,1,1,3,"Retrospective, relaxed-geometry N/H Pareto proxy; not NH3 activity"

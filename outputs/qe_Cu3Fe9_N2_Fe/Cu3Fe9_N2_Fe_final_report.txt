@@ -1,0 +1,5 @@
+Cu3Fe9 + N2, Fe end-on
+BFGS: converged
+Total energy: -1210.00716143 Ry
+N-N distance: 1.125855 Angstrom
+Fe-N distance: 1.896271 Angstrom
